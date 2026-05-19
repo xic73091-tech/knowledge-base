@@ -92,6 +92,14 @@ Biomedical engineering applies engineering principles and design concepts to med
 - **Robert Jarvik**: Artificial heart (Jarvik-7)
 - **Gordana Vunjak-Novakovic**: Tissue engineering, bioreactor design
 
+## Frontiers
+
+- **Whole-Organ Bioprinting**: Scaling 3D bioprinting from tissue patches to transplantable organs with functional vasculature
+- **Brain-Computer Interfaces**: Achieving high-bandwidth, bidirectional neural communication for paralysis treatment and cognitive augmentation
+- **AI-Powered Diagnostics**: Deploying deep learning models for pathology, radiology, and genomics that match or exceed specialist accuracy
+- **In-Vivo Gene Editing**: Delivering CRISPR therapies safely and precisely to target tissues for genetic diseases
+- **Biodegradable Electronics**: Building transient implantable sensors and drug delivery devices that dissolve after their mission is complete
+
 ## Applications
 
 - **Medical Devices**: Diagnostic imaging, surgical tools, implantable devices
@@ -100,6 +108,14 @@ Biomedical engineering applies engineering principles and design concepts to med
 - **Diagnostics**: Lab-on-a-chip, biosensors, AI-powered diagnosis
 - **Rehabilitation**: Assistive devices, robotic therapy, neural interfaces
 - **Pharmaceutical Industry**: Bioprocess engineering, quality control
+
+## Classic Works
+
+- **"Biomedical Engineering Handbook"** by Bronzino — Encyclopedic multi-volume reference covering every major BME subdiscipline
+- **"Principles of Tissue Engineering"** by Lanza, Langer & Vacanti — The foundational text on scaffolds, cell sources, and regenerative medicine strategies
+- **"Medical Instrumentation: Application and Design"** by Webster — How medical devices work from sensor physics to signal processing and safety
+- **"Biomechanics: Mechanical Properties of Living Tissues"** by Fung — Rigorous treatment of soft tissue mechanics, blood flow, and organ biomechanics
+- **"Biomaterials Science: An Introduction to Materials in Medicine"** by Ratner et al. — Comprehensive reference on biocompatibility, implant materials, and surface modification
 
 ## See Also
 

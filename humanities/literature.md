@@ -88,6 +88,14 @@ Literature is the art of written (and oral) works that use language for aestheti
 - **Lu Xun**: Father of modern Chinese literature
 - **Gabriel García Márquez**: One Hundred Years of Solitude; magical realism
 
+## Frontiers
+
+- **Digital Literature and E-Literature**: How do hypertext fiction, interactive narratives, and AI-generated texts challenge traditional definitions of authorship and literary form?
+- **World Literature and the Translation Problem**: What gets translated and what doesn't? The dominance of English and the politics of literary circulation across languages
+- **Computational Literary Analysis**: Using NLP and distant reading (Moretti) to analyze large corpora — style, genre evolution, influence networks — and what is lost in the process
+- **Posthumanism and Literature**: How fiction represents non-human agency, animal consciousness, ecological entanglement, and the dissolution of the human/non-human boundary
+- **The Future of the Canon**: Ongoing debates about whose voices are included, decolonizing reading lists, and whether the concept of a literary canon remains viable
+
 ## Applications
 
 - **Education**: Critical thinking, empathy, cultural literacy, writing skills
@@ -96,6 +104,14 @@ Literature is the art of written (and oral) works that use language for aestheti
 - **Therapy**: Bibliotherapy; narrative therapy
 - **Cultural Preservation**: Endangered languages, oral traditions, folk literature
 - **Creative Industries**: Game writing, advertising, content creation
+
+## Classic Works
+
+- **"The Poetics"** by Aristotle — The foundational text of literary theory; defines tragedy, mimesis, catharsis, and dramatic structure
+- **"The Anatomy of Criticism"** by Northrop Frye — Systematic framework for literary criticism; archetypal theory linking literature to myth and ritual
+- **"Orientalism"** by Edward Said — Transforms literary and cultural studies by exposing how Western texts construct and dominate "the East"; cornerstone of postcolonial criticism
+- **"How to Read and Why"** by Harold Bloom — Accessible guide to close reading across genres; passionate defense of aesthetic value and the Western canon
+- **"The Madwoman in the Attic"** by Sandra Gilbert and Susan Gubar — Foundational feminist literary criticism; analyzes the woman writer's struggle against patriarchal literary tradition
 
 ## See Also
 

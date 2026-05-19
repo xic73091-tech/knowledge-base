@@ -96,6 +96,14 @@ Mechanical engineering is one of the broadest engineering disciplines, applying 
 - **Willis Carrier**: Modern air conditioning
 - **Sadi Carnot**: Father of thermodynamics
 
+## Frontiers
+
+- **Additive Manufacturing of Structural Parts**: Qualifying 3D-printed metal components for load-bearing aerospace and automotive applications
+- **Soft Robotics**: Designing compliant, bio-inspired robots that safely interact with humans and navigate unstructured environments
+- **Digital Twins for Mechanical Systems**: Real-time physics-based simulation mirrors of physical assets for predictive maintenance and design optimization
+- **Turbulence Modeling**: Achieving predictive accuracy in turbulent flow simulation without resorting to prohibitively expensive DNS
+- **Hydrogen Turbines**: Adapting gas turbine combustion systems to burn hydrogen cleanly for zero-carbon power generation
+
 ## Applications
 
 - **Automotive**: Engine design, suspension, EV powertrains, crash safety
@@ -104,6 +112,14 @@ Mechanical engineering is one of the broadest engineering disciplines, applying 
 - **Energy**: Power plant design, renewable energy systems, energy efficiency
 - **Robotics**: Industrial robots, surgical robots, autonomous vehicles
 - **HVAC**: Building systems, refrigeration, climate control
+
+## Classic Works
+
+- **"Shigley's Mechanical Engineering Design"** by Budynas & Nisbett — The standard machine design textbook; covers fatigue, gears, bearings, and shafts with worked examples
+- **"Fundamentals of Heat and Mass Transfer"** by Incropera, DeWitt, Bergman & Lavine — Comprehensive conduction, convection, and radiation reference
+- **"Engineering Fluid Mechanics"** by Crowe, Elger & Roberson — Clear treatment of fluid statics, dynamics, and turbomachinery
+- **"Thermodynamics: An Engineering Approach"** by Cengel & Boles — Widely used thermodynamics text with strong physical intuition and real-world examples
+- **"Introduction to Robotics"** by Craig — Foundational text on robot kinematics, dynamics, and control
 
 ## See Also
 

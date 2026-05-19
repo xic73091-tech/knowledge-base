@@ -96,6 +96,14 @@ Chemistry is the scientific study of the properties and behavior of matter. It i
 - **Gilbert N. Lewis**: Lewis structures, acid-base theory
 - **Friedrich Wöhler**: Synthesized urea; bridged organic/inorganic
 
+## Frontiers
+
+- **Ab Initio Reaction Prediction**: Using machine learning and quantum chemistry to predict reaction outcomes without empirical data
+- **Artificial Enzyme Design**: Engineering enzymes for reactions not found in nature; bridging catalysis and synthetic biology
+- **Plastic Degradation**: Developing chemical and biological methods to break down persistent polymers sustainably
+- **Solid-State Battery Electrolytes**: Finding safe, high-conductivity solid electrolytes to replace flammable liquid ones in batteries
+- **Origin of Life Chemistry**: Understanding how prebiotic molecules formed and self-assembled into the first living systems
+
 ## Applications
 
 - **Pharmaceuticals**: Drug design and synthesis
@@ -103,6 +111,14 @@ Chemistry is the scientific study of the properties and behavior of matter. It i
 - **Energy**: Batteries, fuel cells, solar cells, petroleum refining
 - **Agriculture**: Fertilizers, pesticides
 - **Environmental**: Water treatment, pollution analysis, climate chemistry
+
+## Classic Works
+
+- **"Atkins' Physical Chemistry"** by Peter Atkins & Julio de Paula — The standard physical chemistry text; clear treatment of thermodynamics, kinetics, and quantum chemistry
+- **"Organic Chemistry"** by Jonathan Clayden et al. — Widely regarded as the best modern organic chemistry textbook; mechanism-driven and well-organized
+- **"Advanced Organic Chemistry"** by Francis Carey & Richard Sundberg — Two-volume graduate text covering structure, mechanism, and synthesis in depth
+- **"Chemical Principles"** by Peter Atkins & Loretta Jones — Accessible introduction to fundamental chemistry concepts with rigorous foundations
+- **"The Nature of the Chemical Bond"** by Linus Pauling — Landmark work on chemical bonding theory; introduced electronegativity scales and hybridization concepts
 
 ## See Also
 

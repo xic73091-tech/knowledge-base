@@ -92,6 +92,14 @@ Archaeology is the scientific study of human activity through the recovery and a
 - **Ian Hodder**: Post-processual archaeology; Çatalhöyük excavation
 - **Mary Leakey**: Olduvai Gorge; early human fossils
 
+## Frontiers
+
+- **Ancient DNA Revolution**: aDNA is transforming our understanding of migration, admixture, and population replacement, but raises ethical questions about the treatment of human remains and descendant community consent
+- **Cognitive Archaeology and Symbolic Behavior**: When did humans develop abstract thought, ritual, and language? The archaeological evidence remains contested, especially for the Middle Stone Age
+- **Climate Change and Archaeological Heritage**: Rising seas, extreme weather, and erosion are destroying sites faster than they can be excavated; how do we prioritize salvage and preservation?
+- **Ethical Archaeology and Repatriation**: Balancing scientific research with the rights of indigenous and descendant communities; ongoing debates over NAGPRA, museum collections, and colonial-era excavations
+- **AI and Remote Sensing**: Machine learning applied to satellite imagery, LiDAR, and geophysical data is accelerating site discovery, but raises questions about the future role of fieldwork and human interpretation
+
 ## Applications
 
 - **Cultural Heritage**: Site preservation, museum curation, public outreach
@@ -100,6 +108,14 @@ Archaeology is the scientific study of human activity through the recovery and a
 - **Environmental Archaeology**: Past climates, land use, human-environment interaction
 - **Indigenous Heritage**: Collaborative research; traditional knowledge integration
 - **Space Archaeology**: Satellite remote sensing; site prospection
+
+## Classic Works
+
+- **"Archaeology: Theories, Methods, and Practice"** by Colin Renfrew and Paul Bahn — The standard textbook; comprehensive introduction to archaeological methods, theory, and case studies worldwide
+- **"The Archaeology of Knowledge"** by Michel Foucault — Theoretical framework for analyzing discursive formations; influential beyond archaeology in history, sociology, and cultural studies
+- **"In Small Things Forgotten"** by James Deetz — Foundational work in historical archaeology; demonstrates how everyday material culture reveals the mentalités of past societies
+- **"Reading the Past"** by Ian Hodder — Introduces post-processual archaeology; argues for interpretive and contextual approaches to material culture
+- **"The Humans Who Went Extinct"** by Clive Finlayson — Accessible account of Neanderthal extinction and modern human dispersal; integrates archaeology, ecology, and paleoclimate
 
 ## See Also
 

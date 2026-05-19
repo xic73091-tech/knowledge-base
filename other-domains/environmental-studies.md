@@ -106,6 +106,14 @@ Environmental studies is the interdisciplinary field that examines the interacti
 - **Wangari Maathai**: Green Belt Movement; Nobel Peace Prize
 - **Greta Thunberg**: Youth climate activism; Fridays for Future
 
+## Frontiers
+
+- **Climate Tipping Points**: Identifying thresholds (ice sheet collapse, Amazon dieback, permafrost thaw) beyond which changes become self-reversing and irreversible
+- **Carbon Removal at Scale**: Direct air capture, enhanced weathering, biochar, ocean alkalinity enhancement — can they close the emissions gap?
+- **Biodiversity Credits & Natural Capital**: Designing markets that value ecosystem services; moving beyond carbon to measurable biodiversity outcomes
+- **Environmental Justice & Climate Migration**: Mapping disproportionate impacts on vulnerable communities; legal frameworks for climate refugees
+- **Planetary Boundaries in Practice**: Operationalizing Rockstrom's framework for policy; interactions between boundaries; safe operating space for humanity
+
 ## Applications
 
 - **Environmental Consulting**: EIA, sustainability assessment, compliance
@@ -115,6 +123,14 @@ Environmental studies is the interdisciplinary field that examines the interacti
 - **NGOs**: Advocacy, conservation, community engagement
 - **Corporate Sustainability**: ESG reporting, carbon accounting, sustainable supply chains
 - **Education**: Environmental education, outreach, awareness campaigns
+
+## Classic Works
+
+- **"Silent Spring"** by Rachel Carson (1962) — Exposed the ecological damage of pesticides; sparked the modern environmental movement and led to the EPA's creation
+- **"A Sand County Almanac"** by Aldo Leopold (1949) — Introduced the land ethic; foundational text for conservation biology and environmental philosophy
+- **"The Limits to Growth"** by Donella Meadows et al. (1972) — Systems dynamics model of resource depletion and population; controversial but enduring call for sustainability
+- **"Braiding Sweetgrass"** by Robin Wall Kimmerer (2013) — Weaves indigenous ecological knowledge with Western science; redefines humanity's relationship with nature
+- **"Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist"** by Kate Raworth (2017) — Proposes a new economic model that meets social needs within planetary boundaries
 
 ## See Also
 

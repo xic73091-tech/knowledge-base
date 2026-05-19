@@ -88,6 +88,14 @@ Biology is the scientific study of life and living organisms, including their st
 - **Alexander Fleming**: Discovered penicillin
 - **Barbara McClintock**: Transposable elements ("jumping genes")
 
+## Frontiers
+
+- **Protein Folding Problem**: Predicting 3D protein structure from amino acid sequence; major progress with AlphaFold but many challenges remain
+- **Consciousness and Neural Correlates**: How subjective experience arises from neural activity; one of the deepest unsolved questions in biology
+- **Horizontal Gene Transfer**: The extent and impact of gene transfer between unrelated organisms, especially in prokaryotes and its role in evolution
+- **Microbiome-Host Interactions**: Understanding how trillions of commensal organisms influence health, immunity, and behavior
+- **Synthetic Minimal Cells**: Building the simplest possible living cell from scratch to understand the boundary between chemistry and life
+
 ## Applications
 
 - **Medicine**: Disease understanding, drug development, gene therapy
@@ -95,6 +103,14 @@ Biology is the scientific study of life and living organisms, including their st
 - **Biotechnology**: Recombinant DNA, synthetic biology, biofuels
 - **Conservation**: Biodiversity preservation, ecosystem restoration
 - **Forensics**: DNA profiling, forensic biology
+
+## Classic Works
+
+- **"Molecular Biology of the Gene"** by James Watson et al. — Definitive molecular biology textbook covering DNA, RNA, and gene expression in depth
+- **"Campbell Biology"** by Urry, Cain et al. — The standard introductory biology text; comprehensive coverage of all major topics with clear illustrations
+- **"The Selfish Gene"** by Richard Dawkins — Popular science classic that reframed evolution from the gene's perspective; profoundly influential
+- **"On the Origin of Species"** by Charles Darwin — The foundational text of evolutionary biology; still essential reading for understanding natural selection
+- **"Molecular Biology of the Cell"** by Alberts et al. — Authoritative cell biology textbook; the go-to reference for cellular structure and function
 
 ## See Also
 

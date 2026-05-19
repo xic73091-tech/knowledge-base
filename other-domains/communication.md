@@ -100,6 +100,14 @@ Communication studies examines how people create, share, and interpret messages 
 - **Stuart Hall**: Encoding/decoding; cultural studies
 - **Jürgen Habermas**: Public sphere; communicative action
 
+## Frontiers
+
+- **AI-Generated Content & Authenticity**: Deepfakes, synthetic text, and AI journalism — how to maintain trust when content provenance is uncertain
+- **Algorithmic Accountability**: Who is responsible when recommendation systems amplify extremism or misinformation? Platform governance and transparency
+- **Misinformation Ecosystems**: Understanding how false narratives spread faster than corrections; designing interventions that work at scale
+- **Attention Economy & Digital Well-being**: The ethics of engagement-maximizing design; doomscrolling; platform features and mental health
+- **Global Platform Governance**: Reconciling free expression with content moderation across vastly different political and cultural contexts
+
 ## Applications
 
 - **Journalism**: Reporting, editing, investigative journalism, multimedia
@@ -109,6 +117,14 @@ Communication studies examines how people create, share, and interpret messages 
 - **Corporate Communication**: Internal comms, change management, executive communication
 - **Political Communication**: Campaigns, policy communication, advocacy
 - **Media Production**: Broadcasting, podcasting, video production
+
+## Classic Works
+
+- **"Understanding Media: The Extensions of Man"** by Marshall McLuhan (1964) — "The medium is the message"; foundational text for media theory and the idea that technology shapes cognition
+- **"Manufacturing Consent"** by Noam Chomsky & Edward Herman (1988) — Propaganda model explaining how mass media serve elite interests through structural filters
+- **"Amusing Ourselves to Death"** by Neil Postman (1985) — Critique of television's impact on public discourse; argues entertainment culture undermines rational debate
+- **"The Structural Transformation of the Public Sphere"** by Jurgen Habermas (1962) — Defined the concept of the public sphere and its erosion in modern mass society
+- **"The Medium is the Massage"** by Marshall McLuhan & Quentin Fiore (1967) — Accessible, visual distillation of McLuhan's ideas on how media reshape perception
 
 ## See Also
 

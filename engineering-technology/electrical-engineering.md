@@ -93,6 +93,14 @@ Electrical engineering is the branch of engineering that deals with the study, d
 - **Heinrich Hertz**: Radio waves; confirmed Maxwell's theory
 - **Jack Kilby / Robert Noyce**: Integrated circuit invention
 
+## Frontiers
+
+- **Beyond-CMOS Electronics**: Exploring tunnel FETs, spintronics, and 2D materials (MoS2, graphene transistors) as silicon scaling reaches physical limits
+- **Wireless Power Transfer**: Efficient mid-range and long-range energy transmission for EVs, implants, and IoT devices
+- **Terahertz Gap**: Bridging the frequency range between microwave and infrared for imaging, communications, and sensing applications
+- **Ultra-Low-Power Design**: Harvesting ambient energy and designing circuits that operate at near-threshold voltages for billions of IoT nodes
+- **6G and Beyond**: Sub-THz communication, intelligent reflecting surfaces, and integrated sensing-communication architectures
+
 ## Applications
 
 - **Consumer Electronics**: Smartphones, computers, displays, audio systems
@@ -101,6 +109,14 @@ Electrical engineering is the branch of engineering that deals with the study, d
 - **Automotive**: Electric vehicles, ADAS, engine control units
 - **Aerospace**: Avionics, radar, satellite systems, spacecraft electronics
 - **Medical Devices**: MRI, EEG, pacemakers, ultrasound
+
+## Classic Works
+
+- **"The Art of Electronics"** by Horowitz & Hill — The gold standard for practical circuit design; teaches intuition for analog and digital electronics
+- **"Signals and Systems"** by Oppenheim & Willsky — Foundational text on signal processing, Fourier analysis, and system theory
+- **"Microelectronic Circuits"** by Sedra & Smith — Comprehensive treatment of semiconductor devices and amplifier design
+- **"Power Electronics"** by Mohan, Undeland & Robbins — Essential reference for converters, inverters, and motor drives
+- **"Control Systems Engineering"** by Nise — Accessible yet thorough introduction to feedback control, root locus, and state-space methods
 
 ## See Also
 

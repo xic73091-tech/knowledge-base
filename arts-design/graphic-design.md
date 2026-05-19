@@ -108,6 +108,14 @@ Graphic design is the art and practice of planning and projecting ideas and expe
 - **Stefan Sagmeister**: Conceptual design; Sagmeister & Walsh
 - **Jessica Walsh**: Contemporary design; social media presence
 
+## Frontiers
+
+- **AI-Generated Visual Content**: Tools like Midjourney and DALL-E produce usable imagery — but copyright ownership, training-data ethics, and the devaluation of illustration labor remain contested.
+- **Ethical Design & Dark Patterns**: As designers wield more influence over user behavior, the profession grapples with manipulative UI, addictive interfaces, and where persuasion becomes exploitation.
+- **Inclusive & Accessible Typography**: Designing typefaces and layouts that work across disabilities, scripts, and low-bandwidth contexts — not as an afterthought but as a core design constraint.
+- **Spatial & AR Graphic Design**: Apple Vision Pro and similar platforms demand new approaches to typography, hierarchy, and interaction in three-dimensional space.
+- **Sustainable Packaging & Print**: Replacing single-use plastics, reducing ink coverage, and designing for recyclability require rethinking materials alongside aesthetics.
+
 ## Applications
 
 - **Brand Design**: Visual identity, logos, brand systems
@@ -117,6 +125,14 @@ Graphic design is the art and practice of planning and projecting ideas and expe
 - **Packaging**: Product packaging, labels, retail displays
 - **Environmental Design**: Signage, wayfinding, exhibition design
 - **Motion Design**: Animation, video, interactive media
+
+## Classic Works
+
+- **"Grid Systems in Graphic Design"** by Josef Muller-Brockmann — The bible of Swiss-style grid design; rigorous, systematic, and visually precise
+- **"Thinking with Type"** by Ellen Lupton — The most widely used typography textbook; clear, opinionated, and richly illustrated
+- **"A Designer's Art"** by Paul Rand — Rand's philosophy of design as problem-solving; showcases his iconic work and thinking
+- **"The Elements of Typographic Style"** by Robert Bringhurst — Deep, scholarly treatment of typography as craft and cultural practice
+- **"Meggs' History of Graphic Design"** by Philip B. Meggs and Alston W. Purvis — The standard historical survey; covers the field from prehistory to the digital age
 
 ## See Also
 

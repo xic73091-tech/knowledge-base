@@ -86,6 +86,14 @@ Chemical engineering applies principles of chemistry, physics, mathematics, and 
 - **Gerhard Damköhler**: Reaction engineering; Damköhler number
 - **John Prausnitz**: Thermodynamics of phase equilibria
 
+## Frontiers
+
+- **Electrochemical Process Intensification**: Replacing thermal separation with membrane electrolysis and electrochemical reactors to cut industrial energy use
+- **Continuous Pharmaceutical Manufacturing**: Shifting drug production from batch to continuous flow for quality, speed, and cost advantages
+- **Plastic Upcycling**: Chemically converting waste plastics into monomers, fuels, or high-value chemicals at industrial scale
+- **AI-Guided Process Optimization**: Using reinforcement learning and digital twins to autonomously tune plant operations in real time
+- **Green Hydrogen at Scale**: Developing cost-effective electrolysis and storage systems to decarbonize steel, ammonia, and refining
+
 ## Applications
 
 - **Petrochemicals**: Refining, cracking, reforming; fuels, lubricants
@@ -94,6 +102,14 @@ Chemical engineering applies principles of chemistry, physics, mathematics, and 
 - **Materials**: Polymers, ceramics, semiconductors, nanomaterials
 - **Energy**: Biofuels, hydrogen production, battery manufacturing
 - **Environmental**: Pollution control, waste treatment, carbon capture
+
+## Classic Works
+
+- **"Transport Phenomena"** by Bird, Stewart & Lightfoot — The foundational text linking momentum, heat, and mass transfer through rigorous mathematical treatment
+- **"Chemical Reaction Engineering"** by Levenspiel — Classic treatment of reactor design, kinetics, and residence time distributions
+- **"Unit Operations of Chemical Engineering"** by McCabe, Smith & Harriott — Comprehensive reference for distillation, absorption, extraction, and other separation processes
+- **"Elementary Principles of Chemical Processes"** by Felder & Rousseau — Excellent introductory text for material and energy balances
+- **"Separation Process Principles"** by Seader, Henley & Roper — Detailed coverage of modern separation techniques including membranes and chromatography
 
 ## See Also
 

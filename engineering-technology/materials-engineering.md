@@ -93,6 +93,14 @@ Materials engineering (or materials science and engineering) investigates the re
 - **Richard Smalley / Robert Curl**: Fullerenes (C60)
 - **Geim & Novoselov**: Graphene isolation (Nobel Prize 2010)
 
+## Frontiers
+
+- **Materials Genome Initiative and High-Throughput Discovery**: Using computational screening and automated experiments to accelerate new material discovery by orders of magnitude
+- **Sustainable and Recyclable Materials**: Designing polymers, alloys, and composites for disassembly and reuse without property degradation
+- **Ultra-High-Temperature Ceramics**: Developing materials that survive above 2000 C for hypersonic leading edges and rocket nozzles
+- **Neuromorphic and Quantum Materials**: Engineering memristive, topological, and superconducting materials for next-generation computing architectures
+- **Self-Healing and Adaptive Materials**: Creating materials that sense damage and autonomously repair cracks or restore functionality
+
 ## Applications
 
 - **Aerospace**: High-temperature alloys, composites, thermal protection
@@ -101,6 +109,14 @@ Materials engineering (or materials science and engineering) investigates the re
 - **Energy**: Battery materials, fuel cells, photovoltaics, nuclear materials
 - **Automotive**: Lightweight alloys, crash-resistant structures, coatings
 - **Construction**: High-performance concrete, steel, timber engineering
+
+## Classic Works
+
+- **"Materials Science and Engineering: An Introduction"** by Callister & Rethwisch — The most widely used introductory textbook; covers all four material classes with clear diagrams
+- **"Physical Metallurgy Principles"** by Abbaschian, Abbaschian & Reed-Hill — Deep treatment of phase diagrams, diffusion, and solidification in metals
+- **"The Science and Engineering of Materials"** by Askeland & Wright — Strong emphasis on materials selection and design-oriented thinking
+- **"Introduction to Ceramics"** by Kingery, Bowen & Uhlmann — Definitive reference on ceramic processing, sintering, and properties
+- **"Polymer Chemistry"** by Hiemenz & Lodge — Rigorous treatment of polymerization mechanisms, structure-property relationships, and characterization
 
 ## See Also
 

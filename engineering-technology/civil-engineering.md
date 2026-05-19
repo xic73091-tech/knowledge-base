@@ -87,6 +87,14 @@ Civil engineering is the professional discipline that deals with the design, con
 - **Karl von Terzaghi**: Father of soil mechanics
 - **Othmar Ammann**: Major bridge designs (George Washington Bridge)
 
+## Frontiers
+
+- **3D-Printed Construction**: Scaling additive manufacturing for full-size buildings using concrete and composite materials
+- **Self-Healing Concrete**: Embedding bacteria or microcapsules that autonomously repair cracks to extend infrastructure lifespan
+- **AI-Driven Structural Health Monitoring**: Using sensor networks and machine learning to detect damage in bridges, dams, and buildings in real time
+- **Climate-Resilient Infrastructure**: Designing coastal defenses, drainage, and structures to withstand intensifying extreme weather events
+- **Subsurface Urban Space**: Engineering deeper tunnels, underground transit, and subterranean cities as surface land becomes scarce
+
 ## Applications
 
 - **Building Construction**: Residential, commercial, industrial structures
@@ -94,6 +102,14 @@ Civil engineering is the professional discipline that deals with the design, con
 - **Water Systems**: Municipal water supply, wastewater treatment, flood control
 - **Urban Development**: City planning, transit systems, public spaces
 - **Disaster Mitigation**: Earthquake-resistant design, flood defenses, coastal protection
+
+## Classic Works
+
+- **"Structural Analysis"** by Hibbeler — Clear exposition of determinate and indeterminate structures, influence lines, and matrix methods
+- **"Soil Mechanics in Engineering Practice"** by Terzaghi & Peck — The founding text of geotechnical engineering; effective stress and consolidation theory
+- **"Design of Concrete Structures"** by Nilson, Darwin & Dolan — Authoritative reference for reinforced and prestressed concrete design
+- **"Traffic and Highway Engineering"** by Garber & Hoel — Comprehensive treatment of traffic flow, geometric design, and pavement engineering
+- **"Water Resources Engineering"** by Mays — Integrates hydrology, hydraulics, and water system design
 
 ## See Also
 

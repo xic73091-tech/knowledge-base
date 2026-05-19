@@ -104,6 +104,14 @@ Art history is the study of visual art — painting, sculpture, architecture, ph
 - **Clement Greenberg**: Modernist criticism; Abstract Expressionism
 - **Linda Nochlin**: Feminist art history
 
+## Frontiers
+
+- **Decolonizing Art History**: Re-examining the Western canon, repatriating colonial-era acquisitions, and centering non-Western artistic traditions on their own terms rather than as peripheral to European art
+- **AI and Art**: How do generative AI tools (DALL-E, Midjourney, Stable Diffusion) challenge definitions of authorship, creativity, and artistic value?
+- **Digital Art Conservation**: Born-digital artworks (net art, software art, interactive installations) face technological obsolescence; how do we preserve works that depend on specific hardware or software?
+- **Neuroaesthetics and the Biology of Visual Experience**: Using neuroscience and eye-tracking to study how viewers perceive and respond to art; what does this reveal — and what does it miss — about aesthetic experience?
+- **Global Art Markets and Inequality**: The concentration of art institutions, auction houses, and critical discourse in a few Western cities shapes what counts as "important" art; how are alternative networks emerging?
+
 ## Applications
 
 - **Museums & Galleries**: Curation, conservation, exhibition design
@@ -112,6 +120,14 @@ Art history is the study of visual art — painting, sculpture, architecture, ph
 - **Education**: Art appreciation, visual literacy, cultural competence
 - **Design**: Historical references in contemporary design
 - **Cultural Policy**: Heritage protection, arts funding, public art
+
+## Classic Works
+
+- **"The Lives of the Artists"** by Giorgio Vasari — The first history of art; establishes the biographical model of art history and the narrative of artistic progress from Cimabue to Michelangelo
+- **"The Story of Art"** by E.H. Gombrich — The most widely read introduction to art history; accessible, chronological survey emphasizing the history of seeing and representation
+- **"Meaning in the Visual Arts"** by Erwin Panofsky — Foundational text of iconology; method for interpreting symbolic content in art through pre-iconographic, iconographic, and iconological levels
+- **"The Work of Art in the Age of Mechanical Reproduction"** by Walter Benjamin — Seminal essay on how photography and film transform art's "aura"; essential for understanding modernity and visual culture
+- **"Ways of Seeing"** by John Berger — Challenging, accessible critique of how we look at art; exposes the politics of the gaze, the male gaze in the nude tradition, and the relationship between art and advertising
 
 ## See Also
 

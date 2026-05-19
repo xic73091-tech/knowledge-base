@@ -76,6 +76,14 @@ Astronomy is the natural science that studies celestial objects and phenomena. I
 - **Subrahmanyan Chandrasekhar**: Stellar evolution limits (Chandrasekhar limit)
 - **Vera Rubin**: Evidence for dark matter from galaxy rotation
 
+## Frontiers
+
+- **Nature of Dark Matter**: Its particle identity remains unknown despite decades of direct and indirect detection experiments
+- **Dark Energy Equation of State**: Whether dark energy is constant (cosmological constant) or evolving over time is still an open question
+- **Habitable Exoplanets**: Identifying biosignatures in exoplanet atmospheres via transit spectroscopy; JWST is opening this frontier
+- **Fast Radio Bursts (FRBs)**: The origin of these intense millisecond radio pulses is still debated; magnetars are leading candidates
+- **Solar Coronal Heating Problem**: Why the Sun's corona (millions of degrees) is far hotter than its surface (~5,500 degrees) remains unresolved
+
 ## Applications
 
 - **Navigation**: Celestial navigation, GPS (relativity corrections)
@@ -84,8 +92,17 @@ Astronomy is the natural science that studies celestial objects and phenomena. I
 - **Astrobiology**: Search for extraterrestrial life; habitable zones
 - **Satellite Systems**: Communication, weather, Earth observation
 
+## Classic Works
+
+- **"An Introduction to Modern Astrophysics"** by Carroll & Ostlie — The standard undergraduate astrophysics text; comprehensive coverage from stellar structure to cosmology
+- **"Cosmos"** by Carl Sagan — The iconic popular science book that inspired generations of astronomers and space enthusiasts
+- **"Principles of Physical Cosmology"** by P.J.E. Peebles — Rigorous graduate text on cosmology; Nobel laureate's treatment of the expanding universe
+- **"The First Three Minutes"** by Steven Weinberg — Classic account of the early universe after the Big Bang; accessible yet scientifically precise
+- **"Astrophysics in a Nutshell"** by Dan Maoz — Concise and modern introduction to astrophysics; excellent for graduate students entering the field
+
 ## See Also
 
 - [Physics](./physics.md) — Astrophysics applies physics to celestial phenomena
 - [Earth Science](./earth-science.md) — Planetary science and Earth's cosmic context
 - [Mathematics](./mathematics.md) — Orbital mechanics, cosmological models
+- [Chemistry](./chemistry.md) — Astrochemistry, stellar nucleosynthesis

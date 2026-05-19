@@ -93,6 +93,14 @@ Entrepreneurship is the process of designing, launching, and running a new busin
 - **Eric Ries**: Lean Startup methodology
 - **Reid Hoffman**: LinkedIn; Blitzscaling
 
+## Frontiers
+
+- **Venture Studio & Company Builder Models**: Whether systematically generating and de-risking startups within a single entity outperforms traditional founder-led venture creation
+- **AI-Native Business Models**: How generative AI reshapes what it means to build a startup — from one-person billion-dollar companies to the commoditization of software development
+- **Founder Mental Health & Sustainable Entrepreneurship**: Addressing burnout, isolation, and psychological toll in startup culture; moving beyond the "hustle" narrative
+- **Startup Ecosystem Inequality**: How access to capital, networks, and mentorship varies by geography, race, and gender — and what interventions actually close the gap
+- **Measuring Entrepreneurial Success Beyond Exit**: Developing frameworks that value sustainable lifestyle businesses, social impact, and ecosystem contributions alongside venture-scale outcomes
+
 ## Applications
 
 - **Startup Founding**: Building new ventures from scratch
@@ -102,9 +110,17 @@ Entrepreneurship is the process of designing, launching, and running a new busin
 - **Family Business**: Succession, governance, growth
 - **Freelancing & Solopreneurship**: Independent work; personal branding
 
+## Classic Works
+
+- **"The Lean Startup"** by Eric Ries — Defined the Build-Measure-Learn methodology; transformed how entrepreneurs approach product development and validated learning
+- **"Zero to One"** by Peter Thiel — Contrarian thinking on monopoly, competition, and creating truly novel value; essential for founders thinking about defensibility
+- **"The Startup Owner's Manual"** by Steve Blank & Bob Dorf — Step-by-step guide to the Customer Development process; the practical companion to the Lean Startup framework
+- **"Venture Deals"** by Brad Feld & Jason Mendelson — Demystifies term sheets, valuation, and the mechanics of venture capital; indispensable for founders navigating fundraising
+- **"Effectuation: Elements of Entrepreneurial Expertise"** by Saras Sarasvathy — Research-based theory of how expert entrepreneurs actually make decisions; challenges the rational planning model
+
 ## See Also
 
 - [Management](./management.md) — Organizational leadership, strategy
 - [Finance](./finance.md) — Startup financing, venture capital
 - [Marketing](./marketing.md) — Go-to-market, growth
-- [Innovation](../engineering-technology/computer-science.md) — Technology innovation
+- [Computer Science](../engineering-technology/computer-science.md) — Technology innovation

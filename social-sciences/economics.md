@@ -74,6 +74,14 @@ Economics is the social science that studies how individuals, businesses, govern
 - **Friedrich Hayek**: Knowledge problem; spontaneous order
 - **Thomas Piketty**: Capital in the Twenty-First Century; inequality
 
+## Frontiers
+
+- **AI and Labor Markets**: How artificial intelligence and automation reshape employment, productivity, wage distribution, and the nature of work
+- **Climate Economics**: Modeling the economic costs of climate change; optimal carbon pricing; green transition pathways and stranded assets
+- **Digital Currencies and CBDCs**: How cryptocurrencies and central bank digital currencies may transform monetary policy, financial stability, and inclusion
+- **Behavioral Interventions at Scale**: Leveraging nudges and randomized controlled trials in public policy design; scaling evidence-based interventions
+- **Secular Stagnation**: Whether advanced economies face persistently low growth, low interest rates, and weak aggregate demand
+
 ## Applications
 
 - **Public Policy**: Tax design, healthcare, education funding, climate policy
@@ -81,6 +89,14 @@ Economics is the social science that studies how individuals, businesses, govern
 - **International Organizations**: IMF, World Bank, WTO
 - **Business Strategy**: Market analysis, pricing, competitive dynamics
 - **Personal Finance**: Saving, investing, consumption decisions
+
+## Classic Works
+
+- **"The Wealth of Nations"** by Adam Smith — Foundational text of modern economics; introduced the invisible hand and market self-regulation
+- **"The General Theory of Employment, Interest and Money"** by John Maynard Keynes — Revolutionized macroeconomics; argued for government intervention during downturns
+- **"Capital in the Twenty-First Century"** by Thomas Piketty — Data-driven analysis of wealth inequality across centuries; reignited global debate on redistribution
+- **"Thinking, Fast and Slow"** by Daniel Kahneman — Accessible overview of cognitive biases and dual-process theory in economic decision-making
+- **"The Theory of Moral Sentiments"** by Adam Smith — Often overlooked companion to Wealth of Nations; explores moral and psychological foundations of economic behavior
 
 ## See Also
 

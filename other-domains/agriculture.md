@@ -104,6 +104,14 @@ Agriculture is the science, art, and practice of cultivating plants and livestoc
 - **Jethro Tull**: Seed drill; agricultural mechanization pioneer
 - **Vandana Shiva**: Seed sovereignty; anti-GMO activism; food justice
 
+## Frontiers
+
+- **Gene Editing for Crop Improvement**: CRISPR-Cas9 applications in drought tolerance, disease resistance, and nutritional enhancement — regulatory frameworks still evolving
+- **Soil Microbiome Engineering**: Harnessing beneficial microbes to improve nutrient uptake, suppress disease, and sequester carbon; moving from correlation to causation
+- **Climate-Resilient Agriculture**: Developing crop varieties and farming systems that withstand extreme heat, erratic rainfall, and shifting pest pressures
+- **Autonomous Farm Systems**: Integrating robotics, AI, and drone swarms for planting, monitoring, and harvesting with minimal human labor
+- **Cellular Agriculture & Alternative Proteins**: Lab-grown meat, precision fermentation, and insect farming as complements to traditional livestock — scaling and cost barriers remain
+
 ## Applications
 
 - **Crop Production**: Grain, vegetable, fruit farming; greenhouse production
@@ -112,6 +120,14 @@ Agriculture is the science, art, and practice of cultivating plants and livestoc
 - **Agricultural Research**: Crop breeding, soil science, pest management
 - **Extension Services**: Farmer education, technology transfer, advisory
 - **Policy & Development**: Food security programs, agricultural reform, trade policy
+
+## Classic Works
+
+- **"An Agricultural Testament"** by Albert Howard (1943) — Pioneer of organic farming; emphasized soil health and composting as the foundation of agriculture
+- **"The One-Straw Revolution"** by Masanobu Fukuoka (1978) — Philosophical and practical guide to natural farming; challenged the industrial agriculture paradigm
+- **"Agroecology: The Ecology of Sustainable Food Systems"** by Stephen Gliessman (2015) — Definitive textbook linking ecological science to sustainable farming practice
+- **"The Unsettling of America"** by Wendell Berry (1977) — Critique of industrial agriculture; advocate for small-scale, place-based farming and rural community
+- **"Silent Spring"** by Rachel Carson (1962) — Exposed the dangers of synthetic pesticides; catalyzed the modern environmental movement and IPM adoption
 
 ## See Also
 

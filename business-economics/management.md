@@ -99,6 +99,14 @@ Management is the process of dealing with or controlling things and people, part
 - **Douglas McGregor**: Theory X and Theory Y
 - **Jim Collins**: Good to Great; Level 5 Leadership
 
+## Frontiers
+
+- **Managing Remote & Hybrid Teams**: How to maintain cohesion, culture, and performance when teams are distributed across time and physical space
+- **AI-Augmented Decision-Making**: The boundary between algorithmic recommendations and human judgment; when to defer to data versus intuition in managerial decisions
+- **Organizational Resilience**: How firms build adaptive capacity to survive systemic shocks — pandemics, supply chain disruptions, geopolitical instability — rather than optimizing for efficiency alone
+- **Gig Economy & Future of Work**: How management theory adapts when traditional employment relationships give way to contract, freelance, and platform-based labor
+- **Purpose-Driven Leadership**: Whether stakeholder capitalism and ESG commitments represent a durable shift or remain subordinate to shareholder value pressures
+
 ## Applications
 
 - **General Management**: CEO, COO, general manager roles
@@ -107,6 +115,14 @@ Management is the process of dealing with or controlling things and people, part
 - **Project Management**: IT, construction, event, product management
 - **Entrepreneurship**: Startup management, scaling, pivoting
 - **Change Management**: Digital transformation, mergers, restructuring
+
+## Classic Works
+
+- **"The Practice of Management"** by Peter Drucker — Established management as a discipline; introduced management by objectives (MBO) and the idea that businesses exist to create customers
+- **"Organizations"** by James March & Herbert Simon — Foundational work on organizational decision-making, bounded rationality, and how firms actually behave versus idealized models
+- **"Competitive Strategy"** by Michael Porter — Defined the five forces framework and generic strategies; the starting point for modern strategic management
+- **"Good to Great"** by Jim Collins — Empirical study of companies that made sustained performance leaps; introduced Level 5 Leadership and the Hedgehog Concept
+- **"The Human Side of Enterprise"** by Douglas McGregor — Introduced Theory X and Theory Y; reframed management assumptions about worker motivation
 
 ## See Also
 

@@ -95,6 +95,14 @@ Public health is the science and art of preventing disease, prolonging life, and
 - **Margaret Chan**: WHO Director-General; pandemic response
 - **Paul Farmer**: Partners in Health; global health equity
 
+## Frontiers
+
+- **Pandemic Preparedness Architecture**: COVID-19 exposed gaps in early warning, supply chain resilience, and equitable vaccine distribution; redesigning global health security is a major ongoing effort
+- **Climate Change and Health**: Quantifying the health burden of heat, air pollution, vector-range shifts, and food insecurity, and designing adaptive public health responses
+- **Digital Epidemiology**: Using social media, mobility data, wastewater surveillance, and wearables for real-time disease monitoring — privacy, bias, and validation challenges remain
+- **Health Equity Measurement**: Developing better metrics and causal frameworks to quantify how structural racism, poverty, and geography drive health disparities
+- **Antimicrobial Resistance Surveillance**: Building global AMR surveillance networks and evaluating stewardship interventions at the population level
+
 ## Applications
 
 - **Disease Control**: Outbreak investigation, contact tracing, quarantine
@@ -104,10 +112,18 @@ Public health is the science and art of preventing disease, prolonging life, and
 - **Health Policy**: Insurance reform, tobacco taxation, sugar tax, mask mandates
 - **International Organizations**: WHO, UNICEF, CDC, Médecins Sans Frontières
 
+## Classic Works
+
+- **"Epidemiology: An Introduction"** by Kenneth Rothman — Clear, rigorous introduction to epidemiologic concepts and causal reasoning
+- **"The Health of Nations"** by Thomas McKeown — Influential argument that public health measures, not medical advances, drove mortality decline
+- **"Social Determinants of Health"** by Michael Marmot and Richard Wilkinson — Foundational work on how inequality shapes health outcomes at the population level
+- **"Gordis Epidemiology"** by David Celentano and Moyses Szklo — Widely used textbook combining epidemiologic methods with practical applications
+- **"The Ghost Map"** by Steven Johnson — Narrative of John Snow's cholera investigation; illustrates the birth of modern epidemiology
+
 ## See Also
 
 - [Clinical Medicine](./clinical-medicine.md) — Individual patient care
-- [Epidemiology](./public-health.md) — Disease distribution and determinants
+- [Epidemiology](../natural-sciences/biology.md) — Disease distribution and determinants (biological basis)
 - [Nutrition](./nutrition.md) — Diet and health
 - [Mental Health](./mental-health.md) — Psychological well-being
 - [Sociology](../social-sciences/sociology.md) — Social determinants of health

@@ -108,6 +108,14 @@ Computer science is the study of computation, information, and automation. It sp
 - **Grace Hopper**: COBOL; first compiler
 - **Ada Lovelace**: First programmer (Babbage's Analytical Engine)
 
+## Frontiers
+
+- **Scalable AI Alignment**: How to ensure large language models and autonomous agents remain aligned with human intent as capabilities grow
+- **Post-Quantum Cryptography**: Developing encryption schemes resistant to quantum computer attacks (lattice-based, code-based, hash-based)
+- **Formal Verification at Scale**: Extending provably correct software beyond small critical systems to mainstream development
+- **Neuromorphic Computing**: Architecting chips that mimic brain structure for energy-efficient AI inference
+- **Computational Complexity**: Resolving P vs NP and understanding the true limits of efficient computation
+
 ## Applications
 
 - **Web & Mobile**: Full-stack development, responsive design, PWAs
@@ -117,9 +125,17 @@ Computer science is the study of computation, information, and automation. It sp
 - **Embedded Systems**: IoT, firmware, real-time systems
 - **Gaming**: Game engines, graphics programming, physics simulation
 
+## Classic Works
+
+- **"Introduction to Algorithms" (CLRS)** by Cormen, Leiserson, Rivest, Stein — The definitive algorithms textbook; covers design paradigms, data structures, and complexity with mathematical rigor
+- **"Structure and Interpretation of Computer Programs" (SICP)** by Abelson & Sussman — Teaches programming as a way of thinking; foundational for understanding abstraction and computation
+- **"The Art of Computer Programming"** by Donald Knuth — Encyclopedic multi-volume work on algorithm analysis; a lifetime reference for combinatorial algorithms
+- **"Computer Networks"** by Tanenbaum & Wetherall — Comprehensive treatment of networking from physical layer to application protocols
+- **"Designing Data-Intensive Applications"** by Martin Kleppmann — Modern reference for distributed systems, databases, and data pipeline architecture
+
 ## See Also
 
 - [Mathematics](../natural-sciences/mathematics.md) — Algorithms, complexity theory, cryptography
 - [Electrical Engineering](./electrical-engineering.md) — Hardware, circuits, signals
-- [Data Science](../other-domains/communication.md) — Applied data analysis
+- [Data Science](../natural-sciences/mathematics.md) — Statistical foundations of data analysis
 - [AI Ethics](../humanities/philosophy.md) — Philosophy of AI, consciousness

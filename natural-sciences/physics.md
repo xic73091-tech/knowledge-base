@@ -87,7 +87,7 @@ Physics is the natural science that studies matter, its fundamental constituents
 - **Paul Dirac**: Relativistic quantum mechanics, predicted antimatter
 - **Max Planck**: Quantum hypothesis
 
-## Unresolved Problems
+## Frontiers
 
 - **Quantum Gravity**: Reconciling general relativity with quantum mechanics
 - **Dark Matter**: ~27% of universe; observed gravitationally but not directly detected
@@ -101,6 +101,14 @@ Physics is the natural science that studies matter, its fundamental constituents
 - **Engineering**: All branches depend on physics principles
 - **Medicine**: Radiation therapy, medical imaging
 - **Computing**: Quantum computing, transistor physics
+
+## Classic Works
+
+- **"The Feynman Lectures on Physics"** by Richard Feynman — Landmark undergraduate text covering mechanics, electromagnetism, and quantum mechanics with unmatched clarity and physical intuition
+- **"Principles of Quantum Mechanics"** by Paul Dirac — Seminal formulation of quantum mechanics using bra-ket notation; foundational for all modern quantum theory
+- **"Classical Electrodynamics"** by J.D. Jackson — The standard graduate text on electromagnetism; rigorous and comprehensive treatment of Maxwell's theory
+- **"Gravitation"** by Misner, Thorne & Wheeler — Encyclopedic treatment of general relativity; a classic reference for gravitational physics
+- **"Statistical Mechanics"** by Kerson Huang — Clear and thorough introduction to statistical physics, bridging thermodynamics and microscopic theory
 
 ## See Also
 

@@ -70,6 +70,14 @@ Geography is the study of places and the relationships between people and their 
 - **Yi-Fu Tuan**: Humanistic geography; sense of place
 - **Doreen Massey**: Relational space; power geometry
 
+## Frontiers
+
+- **Climate Change Adaptation**: Spatial modeling of climate impacts; vulnerability mapping; planned relocation of at-risk communities
+- **Big Data and Geospatial AI**: Using satellite imagery, mobile phone data, and machine learning for real-time spatial analysis and prediction
+- **Urban Futures**: Smart cities, vertical urbanism, informal settlements, and equitable urban planning in the Global South
+- **Geopolitics of Resources**: Water scarcity, rare earth mineral competition, Arctic access, and territorial disputes in a warming world
+- **Environmental Justice**: Mapping unequal exposure to pollution, natural hazards, and climate risks across racial and socioeconomic lines
+
 ## Applications
 
 - **Urban Planning**: Land use, transportation, zoning
@@ -78,6 +86,14 @@ Geography is the study of places and the relationships between people and their 
 - **Business & Marketing**: Location analysis, market segmentation, logistics
 - **Public Health**: Disease mapping, health service accessibility
 - **National Security**: Intelligence analysis, border management
+
+## Classic Works
+
+- **"Cosmos"** by Alexander von Humboldt — Foundational work linking physical geography, ecology, and human observation; pioneered holistic earth science
+- **"Social Justice and the City"** by David Harvey — Marxist geography; linked urban spatial organization to capitalism and inequality
+- **"The Production of Space"** by Henri Lefebvre — How social relations shape and are shaped by spatial organization; influential in critical geography
+- **"Topophilia"** by Yi-Fu Tuan — Humanistic geography; explored emotional and aesthetic bonds between people and place
+- **"Making Sense of Place"** by Doreen Massey — Relational conception of space; power geometry and the politics of geographic scale
 
 ## See Also
 

@@ -8,14 +8,15 @@ A structured knowledge base covering major domains of human knowledge, organized
 knowledge-base/
 ├── README.md                    ← You are here
 ├── METADATA-SPEC.md             ← Metadata specification for all entries
-├── natural-sciences/            ← Physics, Chemistry, Biology, Earth Science, Astronomy, Mathematics
-├── social-sciences/             ← Economics, Political Science, Sociology, Anthropology, Geography, Law, Psychology
-├── engineering-technology/      ← CS, EE, Mechanical, Civil, Chemical, Aerospace, Materials, Biomedical, Environmental
-├── humanities/                  ← Philosophy, History, Literature, Linguistics, Archaeology, Religious Studies, Art History
-├── medicine-health/             ← Clinical Medicine, Public Health, Pharmacology, Nursing, Nutrition, Mental Health
-├── business-economics/          ← Finance, Marketing, Management, Accounting, Entrepreneurship, Operations
-├── arts-design/                 ← Visual Arts, Music, Film, Architecture, Graphic Design
-└── other-domains/               ← Education, Agriculture, Military, Communication, Sports, Environmental Studies
+├── .gitignore                   ← Git ignore rules
+├── natural-sciences/            ← Physics, Chemistry, Biology, Earth Science, Astronomy, Mathematics, Neuroscience, Statistics
+├── social-sciences/             ← Economics, Political Science, Sociology, Anthropology, Geography, Law, Psychology, Cognitive Science, International Relations
+├── engineering-technology/      ← CS, EE, Mechanical, Civil, Chemical, Aerospace, Materials, Biomedical, Environmental, Robotics, Data Science
+├── humanities/                  ← Philosophy, History, Literature, Linguistics, Archaeology, Religious Studies, Art History, Cultural Studies, Gender Studies
+├── medicine-health/             ← Clinical Medicine, Public Health, Pharmacology, Nursing, Nutrition, Mental Health, Dentistry, Epidemiology
+├── business-economics/          ← Finance, Marketing, Management, Accounting, Entrepreneurship, Operations, Human Resources, Supply Chain
+├── arts-design/                 ← Visual Arts, Music, Film, Architecture, Graphic Design, Theater, Game Design
+└── other-domains/               ← Education, Agriculture, Military, Communication, Sports, Environmental Studies, Library Science, Public Administration
 ```
 
 ## File Format
@@ -25,7 +26,9 @@ Each knowledge file follows a consistent structure:
 - **Core Concepts**: Fundamental ideas and terminology
 - **Key Theories**: Major frameworks and models
 - **Important Figures**: Foundational and influential thinkers
+- **Frontiers**: Open questions and active research areas
 - **Applications**: Real-world use cases and connections
+- **Classic Works**: Foundational textbooks and seminal works
 
 ## Metadata
 

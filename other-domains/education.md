@@ -103,6 +103,14 @@ Education is the process of facilitating learning — the acquisition of knowled
 - **Howard Gardner**: Multiple intelligences theory
 - **bell hooks**: Engaged pedagogy; feminist education; teaching to transgress
 
+## Frontiers
+
+- **AI and Adaptive Learning**: How large language models and intelligent tutoring systems can personalize instruction at scale — and whether they deepen or flatten learning
+- **Learning Analytics & Ethics**: Using student data to predict outcomes and intervene early; debates over surveillance, bias, and consent
+- **Equity in Digital Education**: Bridging the digital divide; ensuring remote and hybrid learning do not widen existing achievement gaps
+- **Assessment Beyond Standardized Tests**: Competency-based assessment, portfolio evaluation, and authentic performance tasks as alternatives to high-stakes testing
+- **Neuroscience of Learning**: Translating brain research on memory consolidation, spaced repetition, and cognitive load into actionable classroom practice
+
 ## Applications
 
 - **Teaching**: K-12, higher education, adult education, special education
@@ -111,6 +119,14 @@ Education is the process of facilitating learning — the acquisition of knowled
 - **EdTech**: Learning platform development, instructional technology, AI tutors
 - **Corporate Training**: Professional development, e-learning, onboarding
 - **Educational Research**: Learning sciences, policy research, program evaluation
+
+## Classic Works
+
+- **"Democracy and Education"** by John Dewey (1916) — Foundation of progressive education; argues that schooling is essential to democratic society
+- **"Pedagogy of the Oppressed"** by Paulo Freire (1970) — Critique of the "banking model" of education; introduces problem-posing education and critical consciousness
+- **"How People Learn: Brain, Mind, Experience, and School"** by National Academies Press (2000) — Landmark synthesis of learning science research with classroom implications
+- **"Understanding by Design"** by Grant Wiggins & Jay McTighe (1998) — Established backward design as the dominant curriculum planning framework
+- **"Mindset: The New Psychology of Success"** by Carol Dweck (2006) — Popularized growth mindset theory; influenced how educators approach effort and failure
 
 ## See Also
 

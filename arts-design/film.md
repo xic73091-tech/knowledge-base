@@ -109,6 +109,14 @@ Film (cinema) is the art of moving images — a medium that combines visual stor
 - **Hayao Miyazaki**: Animation master; Studio Ghibli
 - **Bong Joon-ho**: Parasite; genre-blending; global recognition
 
+## Frontiers
+
+- **AI in Filmmaking**: Generative tools for scriptwriting, storyboarding, VFX, and even synthetic actors — where does human authorship end and machine output begin?
+- **Streaming vs Theatrical Distribution**: The pandemic accelerated streaming dominance; the industry still debates theatrical windows, box office relevance, and how release models shape what gets made.
+- **Deepfakes & Digital Humans**: De-aging, posthumous performances, and fully synthetic actors raise ethical and legal questions about consent, likeness rights, and authenticity.
+- **VR and Immersive Cinema**: 360-degree video and interactive narrative formats challenge traditional editing grammar and directorial control; no dominant storytelling language has emerged.
+- **Digital Preservation & Format Obsolescence**: Digital files degrade and formats become unreadable; preserving 21st-century cinema is an unsolved archival problem.
+
 ## Applications
 
 - **Film Production**: Directing, producing, cinematography, editing
@@ -118,6 +126,14 @@ Film (cinema) is the art of moving images — a medium that combines visual stor
 - **Documentary**: Journalism, advocacy, education
 - **Film Criticism**: Reviews, academic analysis, journalism
 - **Film Education**: Film schools, workshops, mentorship
+
+## Classic Works
+
+- **"Film Art: An Introduction"** by David Bordwell and Kristin Thompson — The standard university textbook on film analysis; covers form, style, and history with rigor and clarity
+- **"What Is Cinema?"** by Andre Bazin — Foundational realist film theory; argues for long takes and deep focus as cinema's essential qualities
+- **"Understanding Movies"** by Louis Giannetti — Accessible survey of film technique and theory; widely used in introductory courses
+- **"Hitchcock/Truffaut"** by Francois Truffaut — landmark interview book where the French New Wave director dissects Hitchcock's craft film by film
+- **"Sculpting in Time"** by Andrey Tarkovsky — The Russian auteur's meditation on cinema as art, memory, and spiritual experience
 
 ## See Also
 

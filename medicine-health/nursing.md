@@ -93,6 +93,14 @@ Nursing is a healthcare profession focused on the care of individuals, families,
 - **Jean Watson**: Theory of human caring
 - **Betty Neuer**: Systems model; goal-oriented nursing
 
+## Frontiers
+
+- **AI and Clinical Decision Support**: How will predictive algorithms for sepsis, falls, and deterioration integrate into nursing workflows without increasing alert fatigue or eroding clinical judgment?
+- **Nursing Workforce Crisis**: Burnout, moral injury, and mass exits post-pandemic — evidence-based strategies for retention, safe staffing ratios, and sustainable work design are actively debated
+- **Telehealth and Remote Monitoring**: Expanding nursing roles in virtual care, remote patient monitoring, and hospital-at-home models requires new competency frameworks and reimbursement structures
+- **Social Determinants in Nursing Practice**: Systematically screening for and addressing housing, food, and transportation barriers at the bedside — implementation science is still catching up
+- **Precision Nursing**: Applying genomics and biomarker data to individualize nursing interventions (e.g., pain management, wound healing) mirrors precision medicine but lacks a robust evidence base
+
 ## Applications
 
 - **Hospital Nursing**: Bedside care, medication administration, patient monitoring
@@ -101,6 +109,14 @@ Nursing is a healthcare profession focused on the care of individuals, families,
 - **Nursing Education**: Teaching, simulation, clinical supervision
 - **Nursing Informatics**: EHR systems, clinical decision support, data analytics
 - **Research**: Clinical trials, outcomes research, nursing science
+
+## Classic Works
+
+- **"Fundamentals of Nursing"** by Patricia Potter and Anne Perry — Comprehensive textbook covering core nursing concepts, clinical skills, and the nursing process; a standard in nursing education
+- **"Brunner & Suddarth's Textbook of Medical-Surgical Nursing"** by Janice Hinkle and Kerry Cheever — The go-to reference for adult medical-surgical nursing across all body systems
+- **"Nursing: The Philosophy and Science of Caring"** by Jean Watson — Foundational text on human caring theory; redefined nursing as a moral and philosophical practice
+- **"Notes on Nursing: What It Is, and What It Is Not"** by Florence Nightingale — The 1860 work that launched modern nursing; remarkably relevant observations on environment and patient care
+- **"Nurse's Pocket Guide: Diagnoses, Prioritized Interventions, and Rationales"** by Marilynn Doenges et al. — Practical clinical reference linking nursing diagnoses to evidence-based interventions
 
 ## See Also
 

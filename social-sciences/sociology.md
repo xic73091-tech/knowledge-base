@@ -87,6 +87,14 @@ Sociology is the scientific study of society, patterns of social relationships, 
 - **Pierre Bourdieu**: Cultural capital; habitus; field theory
 - **Michel Foucault**: Power/knowledge; discipline; governmentality
 
+## Frontiers
+
+- **Digital Society**: How social media, algorithms, and platform economies reshape social interaction, inequality, and collective identity
+- **Climate and Environmental Sociology**: Social dimensions of climate change; environmental justice; climate migration and displacement
+- **AI and the Future of Work**: Automation's impact on labor markets, precarity, skill polarization, and the meaning of work
+- **Global Inequality Dynamics**: Rising within-country inequality; the expanding global middle class; post-pandemic economic divergence
+- **Computational Sociology**: Using big data, machine learning, and agent-based modeling to study social phenomena at scale
+
 ## Applications
 
 - **Social Policy**: Welfare, education, housing, healthcare design
@@ -95,6 +103,14 @@ Sociology is the scientific study of society, patterns of social relationships, 
 - **Public Health**: Social determinants of health
 - **Market Research**: Consumer behavior, demographic analysis
 - **Community Development**: Urban planning, grassroots organizing
+
+## Classic Works
+
+- **"The Rules of Sociological Method"** by Émile Durkheim — Defined sociology's subject matter as social facts; foundational methodology
+- **"Economy and Society"** by Max Weber — Comprehensive work on authority, bureaucracy, and interpretive sociology
+- **"The Protestant Ethic and the Spirit of Capitalism"** by Max Weber — Linked religious values to economic behavior; classic of historical sociology
+- **"Distinction"** by Pierre Bourdieu — Demonstrated how cultural taste reproduces class inequality; introduced cultural capital
+- **"The Social Construction of Reality"** by Peter Berger and Thomas Luckmann — How knowledge and everyday reality are produced through social interaction
 
 ## See Also
 

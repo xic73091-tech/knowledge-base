@@ -93,6 +93,14 @@ Nutrition is the science that interprets the interaction of nutrients and other 
 - **Wilbur Atwater**: Calorimetry; nutrition science pioneer
 - **T. Colin Campbell**: The China Study; plant-based nutrition research
 
+## Frontiers
+
+- **Personalized Nutrition**: Can microbiome composition, glycemic response patterns, and genetic variants predict individual dietary responses better than population-level guidelines? Large trials (e.g., PREDICT) are underway
+- **Ultra-Processed Food and Health**: Mounting epidemiologic evidence links UPF consumption to chronic disease, but the causal mechanisms — additives, nutrient displacement, processing itself — remain unclear
+- **Nutrition and Mental Health**: The gut-brain axis and dietary patterns (e.g., Mediterranean diet) show promise for depression and anxiety prevention, yet clinical trial evidence is still limited
+- **Sustainable Diets**: Balancing human nutritional needs with planetary boundaries (carbon, water, land use) requires rethinking global food systems — EAT-Lancet benchmarks are debated
+- **Chrononutrition**: How meal timing, circadian rhythms, and fasting windows interact with metabolism and disease risk is an emerging field with few long-term randomized trials
+
 ## Applications
 
 - **Clinical Nutrition**: Medical nutrition therapy; tube feeding; TPN
@@ -101,6 +109,14 @@ Nutrition is the science that interprets the interaction of nutrients and other 
 - **Food Industry**: Product development; reformulation; labeling compliance
 - **Sports Nutrition**: Athletic performance; body composition; recovery
 - **Global Health**: Malnutrition programs; micronutrient supplementation; food security
+
+## Classic Works
+
+- **"Present Knowledge in Nutrition"** by John Erdman Jr., Ian Macdonald, and Steven Zeisel — Authoritative reference covering every nutrient, metabolism, and clinical application; the standard in nutrition science
+- **"Williams' Basic Nutrition and Diet Therapy"** by Staci Nix — Accessible introduction to nutrition principles; widely used in dietetics and nursing programs
+- **"The China Study"** by T. Colin Campbell and Thomas Campbell — Influential (if debated) large-scale study linking plant-based diets to lower chronic disease rates
+- **"How Not to Die"** by Michael Greger — Evidence-based guide to dietary prevention of leading causes of death; accessible to general readers
+- **"Food and Nutrition"** by Barbara Bowman and Robert Russell — Comprehensive reference on global nutrition challenges, policy, and science
 
 ## See Also
 

@@ -84,6 +84,14 @@ Pharmacology is the science of how drugs interact with biological systems. It en
 - **James Black**: Beta-blockers, H2 blockers
 - **Tu Youyou**: Artemisinin discovery (antimalarial); Nobel Prize 2015
 
+## Frontiers
+
+- **AI-Driven Drug Discovery**: Machine learning models for de novo molecular design, binding affinity prediction, and ADMET optimization are accelerating hit-to-lead timelines, but experimental validation lags behind computational promise
+- **Targeted Protein Degradation**: PROTACs and molecular glues hijack the ubiquitin-proteasome system to degrade disease-causing proteins — expanding druggable space beyond traditional inhibitors
+- **Gene and Cell Therapies**: CRISPR-based gene editing, CAR-T cells, and mRNA therapeutics raise new pharmacological questions around delivery, immunogenicity, durability, and off-target effects
+- **Microbiome-Drug Interactions**: Gut microbiota metabolize drugs and influence efficacy and toxicity; understanding these interactions could enable microbiome-aware prescribing
+- **Antibiotic Innovation**: Novel mechanisms (anti-virulence, phage-antibiotic synergy, CRISPR antimicrobials) are needed to overcome resistance, but economic models for antibiotic development remain broken
+
 ## Applications
 
 - **Drug Design**: Rational drug design, computational chemistry, high-throughput screening
@@ -91,6 +99,14 @@ Pharmacology is the science of how drugs interact with biological systems. It en
 - **Pharmaceutical Industry**: Drug manufacturing, quality control, regulatory affairs
 - **Toxicology**: Forensic toxicology, environmental toxicology, occupational safety
 - **Personalized Medicine**: Pharmacogenomics-based dosing and drug selection
+
+## Classic Works
+
+- **"Goodman & Gilman's The Pharmacological Basis of Therapeutics"** by Laurence Brunton et al. — The definitive pharmacology reference; comprehensive mechanism-based coverage of every major drug class
+- **"Basic & Clinical Pharmacology"** by Bertram Katzung — Accessible yet thorough; widely used in medical education for bridging basic science and clinical application
+- **"Pharmacology: Examination and Board Review"** by Trevor Anthony and Bertram Katzung — Concise high-yield review; essential for exam preparation
+- **"The Pharmacological Basis of Therapeutics"** by Louis Goodman and Alfred Gilman — The 1941 first edition that established pharmacology as a modern clinical science
+- **"Drug Discovery and Development"** by Raymond Hill — Overview of the drug pipeline from target identification to post-marketing surveillance
 
 ## See Also
 

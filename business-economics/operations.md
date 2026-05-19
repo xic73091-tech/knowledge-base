@@ -94,6 +94,14 @@ Operations management is the administration of business practices to create the 
 - **Eliyahu Goldratt**: Theory of Constraints; The Goal
 - **Henry Ford**: Assembly line; mass production
 
+## Frontiers
+
+- **Supply Chain Resilience vs Efficiency**: How to redesign global supply chains for disruption readiness without sacrificing the cost advantages of lean, just-in-time systems
+- **Digital Twins in Operations**: Whether virtual replicas of physical processes and supply chains can deliver predictive maintenance, scenario planning, and real-time optimization at scale
+- **Autonomous Warehousing & Last-Mile Delivery**: The technical, regulatory, and economic barriers to fully autonomous logistics — from robotic picking to drone and self-driving delivery
+- **Circular Economy Operations**: How to operationalize closed-loop supply chains — remanufacturing, recycling, product-as-a-service — at scale while remaining cost-competitive
+- **Generative AI in Demand Planning**: Whether foundation models can outperform traditional statistical forecasting methods in volatile, multi-variate demand environments
+
 ## Applications
 
 - **Manufacturing**: Production planning, quality control, factory automation
@@ -102,6 +110,14 @@ Operations management is the administration of business practices to create the 
 - **Service Industries**: Healthcare operations, hospitality, retail
 - **Consulting**: Process improvement, supply chain optimization
 - **E-commerce**: Fulfillment, last-mile delivery, inventory optimization
+
+## Classic Works
+
+- **"The Goal"** by Eliyahu Goldratt — Introduced the Theory of Constraints through a novel format; made bottleneck thinking and throughput accounting accessible to practitioners
+- **"The Toyota Production System"** by Taiichi Ohno — The origin text of lean manufacturing; explains just-in-time, kanban, and the philosophy of waste elimination from inside Toyota
+- **"Operations Management"** by Jay Heizer & Barry Render — The standard university textbook; comprehensive coverage of both manufacturing and service operations
+- **"The Machine That Changed the World"** by Womack, Jones & Roos — Documented the lean production system of Toyota and its superiority over mass production; catalyzed the lean movement in the West
+- **"Factory Physics"** by Mark Spearman, Wallace Hopp & Michael VandeBerg — Rigorous treatment of production variability, queueing theory, and the mathematical laws governing operations
 
 ## See Also
 

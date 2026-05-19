@@ -98,6 +98,14 @@ Environmental engineering is the application of science and engineering principl
 - **Paul Anastas**: Green chemistry; 12 principles of green chemistry
 - **Vandana Shiva**: Environmental justice; biodiversity advocacy
 
+## Frontiers
+
+- **PFAS Remediation**: Developing cost-effective methods to destroy "forever chemicals" (per- and polyfluoroalkyl substances) in water and soil
+- **Direct Air Capture at Scale**: Engineering sorbents and processes to remove CO2 from ambient air economically enough for gigaton-scale deployment
+- **Microplastic Detection and Removal**: Building reliable monitoring systems and treatment technologies for nanoplastic and microplastic pollution
+- **Nature-Based Solutions at Infrastructure Scale**: Quantifying and designing constructed wetlands, green roofs, and urban forests to replace gray infrastructure
+- **Digital Environmental Monitoring**: Deploying IoT sensor networks and satellite analytics for real-time pollution tracking and early warning systems
+
 ## Applications
 
 - **Municipal Services**: Water supply, wastewater treatment, waste collection
@@ -105,6 +113,14 @@ Environmental engineering is the application of science and engineering principl
 - **Consulting**: EIA, remediation design, sustainability strategy
 - **Government**: Environmental regulation, monitoring, enforcement
 - **Research**: Climate science, pollution modeling, green technology development
+
+## Classic Works
+
+- **"Environmental Engineering: Fundamentals, Sustainability, Design"** by Mihelcic & Zimmerman — Modern textbook integrating sustainability principles with core treatment processes
+- **"Water and Wastewater Engineering"** by Davis — Comprehensive reference for drinking water and wastewater treatment plant design
+- **"Air Pollution Control: A Design Approach"** by Cooper & Alley — Detailed treatment of scrubbers, precipitators, and incinerator design
+- **"Solid Waste Engineering"** by Worrell, Reckhow & Vesilind — Covers landfill design, waste-to-energy, recycling systems, and hazardous waste management
+- **"Environmental Organic Chemistry"** by Schwarzenbach, Gschwend & Imboden — Foundational text on pollutant fate, transport, and transformation in natural systems
 
 ## See Also
 

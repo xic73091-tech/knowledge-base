@@ -98,6 +98,14 @@ Mathematics is the abstract science of number, quantity, structure, space, and c
 - **Srinivasa Ramanujan**: Extraordinary number theory contributions
 - **Alexander Grothendieck**: Revolutionized algebraic geometry
 
+## Frontiers
+
+- **Riemann Hypothesis**: All non-trivial zeros of the zeta function have real part 1/2; the most famous unsolved problem in mathematics
+- **P vs NP Problem**: Whether every problem whose solution can be quickly verified can also be quickly solved; foundational for computer science
+- **Navier-Stokes Existence and Smoothness**: Whether smooth solutions always exist for the equations governing fluid flow; a Millennium Prize Problem
+- **Langlands Program**: A vast web of conjectures connecting number theory, algebraic geometry, and representation theory; often called a "grand unified theory" of mathematics
+- **Birch and Swinnerton-Dyer Conjecture**: Relates the number of rational points on an elliptic curve to the behavior of its L-function; another Millennium Prize Problem
+
 ## Applications
 
 - **Physics**: Differential equations, group theory, linear algebra
@@ -107,9 +115,17 @@ Mathematics is the abstract science of number, quantity, structure, space, and c
 - **Medicine**: Statistics, imaging algorithms, epidemiological modeling
 - **Finance**: Stochastic calculus, risk modeling, derivatives pricing
 
+## Classic Works
+
+- **"Principia Mathematica"** by Bertrand Russell & Alfred North Whitehead — Monumental attempt to derive all of mathematics from logic; foundational for mathematical logic
+- **"Elements"** by Euclid — The most influential mathematics textbook in history; established the axiomatic method over 2,000 years ago
+- **"Algebra"** by Saunders Mac Lane & Garrett Birkhoff — Classic introduction to abstract algebra from a categorical perspective
+- **"Topology"** by James Munkres — The standard topology textbook; clear, rigorous, and widely used in graduate programs
+- **"An Introduction to the Theory of Numbers"** by Hardy & Wright — Authoritative and elegant treatment of number theory; a classic since 1938
+
 ## See Also
 
 - [Computer Science](../engineering-technology/computer-science.md) — Algorithms, complexity theory, discrete math
 - [Physics](./physics.md) — Mathematical physics
-- [Statistics](../social-sciences/psychology.md) — Applied statistics in social sciences
+- [Statistics](../social-sciences/economics.md) — Applied statistics and econometrics
 - [Economics](../social-sciences/economics.md) — Mathematical economics

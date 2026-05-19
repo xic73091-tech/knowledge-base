@@ -80,6 +80,14 @@ Law is the system of rules created and enforced through social or governmental i
 - **John Rawls**: Justice as fairness
 - **Ruth Bader Ginsburg**: Gender equality jurisprudence
 
+## Frontiers
+
+- **AI and Legal Decision-Making**: Algorithmic sentencing, predictive policing, and the regulation of autonomous systems; accountability and bias
+- **Digital Privacy and Data Protection**: Balancing surveillance capabilities with individual rights; cross-border data flows; GDPR and its global influence
+- **Climate Litigation**: Using courts to compel governments and corporations to act on climate change; rights of future generations
+- **Legal Personhood for Non-Humans**: Rivers, ecosystems, and AI systems gaining legal standing; expanding the boundaries of rights
+- **Global Governance Gaps**: Regulating transnational technology companies, cyberspace, and emerging biotechnologies across jurisdictions
+
 ## Applications
 
 - **Legal Practice**: Litigation, corporate law, criminal defense, public interest law
@@ -88,6 +96,14 @@ Law is the system of rules created and enforced through social or governmental i
 - **Business**: Contract law, intellectual property, antitrust, compliance
 - **Human Rights**: Advocacy, litigation, monitoring, treaty bodies
 - **Technology**: Data privacy, AI regulation, cybersecurity law
+
+## Classic Works
+
+- **"The Concept of Law"** by H.L.A. Hart — Modern legal positivism; distinguished primary and secondary rules; reshaped jurisprudence
+- **"The Common Law"** by Oliver Wendell Holmes Jr. — Foundational text of legal realism; "The life of the law has not been logic; it has been experience"
+- **"A Theory of Justice"** by John Rawls — Applied the veil of ignorance to legal and institutional design; justice as fairness
+- **"The Bramble Bush"** by Karl Llewellyn — Accessible introduction to legal realism and the nature of legal reasoning
+- **"Taking Rights Seriously"** by Ronald Dworkin — Rights as trumps against majority will; critique of legal positivism and utilitarianism
 
 ## See Also
 

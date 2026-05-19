@@ -98,6 +98,14 @@ Music is the art of organizing sound in time through elements such as melody, ha
 - **Miles Davis**: Jazz innovator; Kind of Blue; jazz fusion
 - **Beyoncé**: Contemporary pop/R&B; visual albums; cultural impact
 
+## Frontiers
+
+- **AI Music Generation**: Tools like Udio and Suno can produce convincing songs from text prompts — raising unresolved questions about copyright, creative credit, and the future of human composition.
+- **Streaming Economics & Artist Compensation**: Per-stream payouts remain fractions of a cent; the industry debates alternative models like user-centric payment and music NFTs.
+- **Algorithmic Composition & Microtonality**: Exploring tuning systems beyond 12-tone equal temperament and AI-assisted compositional techniques that push beyond human pattern habits.
+- **Neuroscience of Musical Emotion**: Why does music move us? The interplay of expectation, surprise, dopamine release, and cultural conditioning is still being mapped.
+- **Decolonizing Music Theory**: Standard curricula center Western tonal harmony; scholars advocate integrating African, Asian, and Indigenous musical frameworks as equally rigorous systems.
+
 ## Applications
 
 - **Performance**: Solo, ensemble, orchestral, session work
@@ -106,6 +114,14 @@ Music is the art of organizing sound in time through elements such as melody, ha
 - **Production**: Recording, mixing, mastering, sound design
 - **Music Therapy**: Clinical use of music for health outcomes
 - **Technology**: Audio engineering, software development, instrument design
+
+## Classic Works
+
+- **"Tonal Harmony"** by Stefan Kostka and Dorothy Payne — The standard harmony textbook in North American university programs; thorough and pedagogically clear
+- **"The Rest Is Noise"** by Alex Ross — Narrative history of 20th-century music; makes avant-garde and modernist music accessible to general readers
+- **"This Is Your Brain on Music"** by Daniel Levitin — Neuroscience of how we perceive and feel music; bridges science and musical experience
+- **"How Music Works"** by David Byrne — Part memoir, part analysis of how context, technology, and economics shape musical forms
+- **"Fundamentals of Musical Composition"** by Arnold Schoenberg — The serialist master's systematic guide to compositional craft and form
 
 ## See Also
 

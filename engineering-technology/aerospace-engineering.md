@@ -91,6 +91,14 @@ Aerospace engineering is the primary field of engineering concerned with the dev
 - **Neil Armstrong**: First human on Moon (1969)
 - **Elon Musk**: SpaceX; reusable rockets
 
+## Frontiers
+
+- **Sustainable Aviation Fuels and Hydrogen Flight**: Decarbonizing air travel through SAF drop-in fuels, liquid hydrogen combustion, and hydrogen fuel cell propulsion
+- **Hypersonic Vehicle Design**: Solving thermal protection, scramjet propulsion, and materials challenges for sustained Mach 5+ flight
+- **Autonomous Urban Air Mobility**: Certifying eVTOL aircraft and air taxi operations in dense urban environments with detect-and-avoid systems
+- **Space Debris Mitigation**: Active debris removal, on-orbit servicing, and designing spacecraft for end-of-life deorbiting
+- **In-Space Manufacturing and Assembly**: Building large structures (antennas, habitats) in orbit rather than launching them fully assembled
+
 ## Applications
 
 - **Commercial Aviation**: Airliner design; air traffic management
@@ -99,6 +107,14 @@ Aerospace engineering is the primary field of engineering concerned with the dev
 - **Satellite Systems**: Communication, GPS, Earth observation, weather
 - **Urban Air Mobility**: eVTOL, air taxis, drone delivery
 - **Defense**: Missile defense, surveillance, reconnaissance
+
+## Classic Works
+
+- **"Anderson's Fundamentals of Aerodynamics"** by John D. Anderson Jr. — The standard aerodynamics textbook; covers incompressible to hypersonic flow with physical intuition
+- **"Orbital Mechanics for Engineering Students"** by Curtis — Clear introduction to Keplerian orbits, orbital maneuvers, and mission design
+- **"Rocket Propulsion Elements"** by Sutton & Biblarz — Definitive reference on chemical rocket design, nozzles, and performance analysis
+- **"Aircraft Structures for Engineering Students"** by Megson — Covers stress analysis, fatigue, and aeroelasticity specific to airframes
+- **"Mechanics of Flight"** by Barnard & Philpott — Accessible treatment of flight performance, stability, and control for both aircraft and spacecraft
 
 ## See Also
 

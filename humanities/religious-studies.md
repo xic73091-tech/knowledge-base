@@ -101,6 +101,14 @@ Religious studies is the academic, non-confessional study of religion as a human
 - **Karen Armstrong**: Comparative religion; History of God
 - **Huston Smith**: The World's Religions
 
+## Frontiers
+
+- **Religion and Artificial Intelligence**: Can AI be religious? How do algorithmic systems reshape spiritual practice, and what happens when religious authority is mediated by technology?
+- **Secularization and Post-Secular Societies**: Berger's secularization thesis is contested by global religious revival; what frameworks best describe the complex relationship between modernity and religion?
+- **Cognitive Science of Religion**: Why do humans tend toward religious belief? Exploring the evolutionary, neurological, and psychological origins of religiosity (Boyer, Barrett, Atran)
+- **Religion and Climate Ethics**: How do different religious traditions frame environmental responsibility? The growing intersection of faith-based movements and ecological activism
+- **Indigenous Religious Freedom**: Tensions between indigenous sacred sites, land rights, and state/market interests; the limits of legal frameworks like the UN Declaration on the Rights of Indigenous Peoples
+
 ## Applications
 
 - **Interfaith Dialogue**: Peacebuilding; pluralism; coexistence
@@ -109,6 +117,14 @@ Religious studies is the academic, non-confessional study of religion as a human
 - **Journalism**: Reporting on religion; religious freedom issues
 - **Diplomacy**: Religious actors in conflict resolution; faith-based organizations
 - **Counseling**: Pastoral care; spiritual direction; grief support
+
+## Classic Works
+
+- **"The Elementary Forms of Religious Life"** by Emile Durkheim — Foundational sociological study of religion; argues that religion is a social phenomenon rooted in collective effervescence
+- **"The Idea of the Holy"** by Rudolf Otto — Introduces the concept of the numinous; analyzes the non-rational dimension of religious experience as mysterium tremendum et fascinans
+- **"The Sacred and the Profane"** by Mircea Eliade — Defines the phenomenology of religion; distinguishes sacred and profane space and time as fundamental categories of religious experience
+- **"The World's Religions"** by Huston Smith — Widely read comparative introduction; presents the essential teachings and practices of major world religions with empathy and clarity
+- **"A History of God"** by Karen Armstrong — Traces the evolution of the concept of God across Judaism, Christianity, and Islam; accessible yet scholarly
 
 ## See Also
 

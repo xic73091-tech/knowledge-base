@@ -70,6 +70,14 @@ Anthropology is the holistic, comparative study of humans — our biology, cultu
 - **Ruth Benedict**: Patterns of Culture; configurational approach
 - **Zora Neale Hurston**: African American folklore; ethnographic fiction
 
+## Frontiers
+
+- **Digital Ethnography**: Studying online communities, virtual worlds, and algorithmic cultures through adapted anthropological methods
+- **Anthropocene and Environmental Change**: How cultures adapt to and conceptualize climate change, mass extinction, and ecological crisis
+- **Decolonizing Anthropology**: Reckoning with the discipline's colonial legacy; indigenous methodologies; repatriation and data sovereignty
+- **Genomics and Human Variation**: Integrating genomic data with anthropological questions about migration, adaptation, and the social construction of race
+- **AI and Culture**: How artificial intelligence systems embed and transform cultural norms; anthropological perspectives on technology design
+
 ## Applications
 
 - **UX Research**: Ethnographic methods in product design
@@ -78,6 +86,14 @@ Anthropology is the holistic, comparative study of humans — our biology, cultu
 - **Business**: Cross-cultural management; consumer anthropology
 - **Museum & Heritage**: Curation, repatriation, cultural preservation
 - **Forensics**: Skeletal identification, disaster victim identification
+
+## Classic Works
+
+- **"Argonauts of the Western Pacific"** by Bronislaw Malinowski — Established participant observation as the core method of ethnographic fieldwork
+- **"Patterns of Culture"** by Ruth Benedict — Comparative cultural analysis; showed how cultures configure distinct personality types
+- **"The Interpretation of Cultures"** by Clifford Geertz — Defined interpretive anthropology; introduced the concept of thick description
+- **"Coming of Age in Samoa"** by Margaret Mead — Groundbreaking study of adolescence across cultures; fueled the nature-nurture debate
+- **"Tristes Tropiques"** by Claude Lévi-Strauss — Memoir and theoretical work blending travel writing with structuralist analysis of myth and culture
 
 ## See Also
 

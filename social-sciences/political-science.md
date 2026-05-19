@@ -79,6 +79,14 @@ Political science is the systematic study of governance, political activities, p
 - **Hannah Arendt**: Totalitarianism; the human condition
 - **John Rawls**: Theory of justice; veil of ignorance
 
+## Frontiers
+
+- **Democratic Backsliding**: How elected leaders erode democratic institutions from within; hybrid regimes and authoritarian resilience
+- **Digital Authoritarianism**: Surveillance technology, internet shutdowns, and social media manipulation as tools of state control
+- **Polarization and Affective Partisanship**: Rising ideological distance and hostility between political groups; consequences for governance and social cohesion
+- **Climate Politics**: International cooperation challenges; green new deals; just transition policies and distributive conflicts
+- **AI and Governance**: Algorithmic decision-making in public policy; regulation of artificial intelligence; platform governance and content moderation
+
 ## Applications
 
 - **Government**: Legislative design, executive leadership, judicial review
@@ -86,6 +94,14 @@ Political science is the systematic study of governance, political activities, p
 - **Political Consulting**: Campaign strategy, polling, media management
 - **NGOs & Advocacy**: Policy advocacy, human rights, development work
 - **Journalism**: Political reporting, investigative journalism
+
+## Classic Works
+
+- **"The Prince"** by Niccolò Machiavelli — Foundational text of political realism; analyzed power without moral idealism
+- **"Leviathan"** by Thomas Hobbes — Social contract theory; argued for a strong sovereign to prevent the chaos of the state of nature
+- **"The Republic"** by Plato — Early systematic exploration of justice, governance, and the ideal state
+- **"A Theory of Justice"** by John Rawls — Revived political philosophy in the 20th century; veil of ignorance and distributive justice
+- **"The Federalist Papers"** by Hamilton, Madison, and Jay — Defense and interpretation of the U.S. Constitution; enduring arguments for federalism and checks and balances
 
 ## See Also
 

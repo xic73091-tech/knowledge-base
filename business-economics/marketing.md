@@ -96,6 +96,14 @@ Marketing is the activity, set of institutions, and processes for creating, comm
 - **David Aaker**: Brand equity theory
 - **Clayton Christensen**: Disruptive innovation; jobs-to-be-done
 
+## Frontiers
+
+- **Privacy-First Marketing**: How to maintain effective targeting and personalization as third-party cookies disappear and data regulations tighten globally
+- **AI-Generated Content & Creativity**: Whether LLM-generated ad copy, images, and video can match human creative effectiveness, and how it changes the economics of content production
+- **Attention Economy Measurement**: Developing reliable metrics for actual consumer attention beyond impressions and clicks; the shift from viewability to attentiveness
+- **Algorithmic Pricing & Dynamic Optimization**: Ethical and competitive implications of AI-driven real-time price discrimination across customer segments
+- **Marketing Attribution in a Multi-Device World**: Accurately assigning credit across fragmented customer journeys spanning mobile, desktop, in-store, and voice channels
+
 ## Applications
 
 - **Brand Strategy**: Positioning, identity, architecture, rebranding
@@ -104,6 +112,14 @@ Marketing is the activity, set of institutions, and processes for creating, comm
 - **Marketing Analytics**: Attribution, ROI measurement, customer segmentation
 - **Advertising**: Creative development, media planning, campaign management
 - **Growth Marketing**: Experimentation, funnel optimization, retention
+
+## Classic Works
+
+- **"Marketing Management"** by Philip Kotler & Kevin Keller — The definitive marketing textbook; comprehensive framework covering strategy, consumer behavior, and brand management
+- **"Positioning: The Battle for Your Mind"** by Al Ries & Jack Trout — Introduced the concept of positioning; fundamental to understanding how brands compete in consumer perception
+- **"Influence: The Psychology of Persuasion"** by Robert Cialdini — Six principles of persuasion grounded in social psychology; essential for understanding consumer decision-making
+- **"Crossing the Chasm"** by Geoffrey Moore — Addressed the gap between early adopters and mainstream markets; critical for technology marketing and product diffusion
+- **"Competitive Strategy"** by Michael Porter — Though broader than marketing, its frameworks for industry analysis and competitive positioning underpin strategic marketing decisions
 
 ## See Also
 

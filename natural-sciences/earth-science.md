@@ -75,6 +75,14 @@ Earth science (also known as geoscience) is the study of the Earth — its compo
 - **Charles Richter**: Earthquake magnitude scale
 - **Milutin Milanković**: Orbital cycles and climate
 
+## Frontiers
+
+- **Earthquake Prediction**: Despite decades of research, reliable short-term earthquake prediction remains elusive; current focus on early warning systems
+- **Deep Earth Structure**: The composition and dynamics of the lower mantle and core are still poorly constrained by seismic data
+- **Anthropocene Definition**: Debating whether to formally define a new geologic epoch marked by human impact on Earth systems
+- **Tipping Points in Climate**: Identifying thresholds in the climate system (ice sheet collapse, permafrost thawing) that could trigger irreversible changes
+- **Water Cycle Under Climate Change**: How shifting precipitation patterns, glacier retreat, and groundwater depletion will affect global freshwater availability
+
 ## Applications
 
 - **Resource Extraction**: Mining, petroleum geology, groundwater management
@@ -82,6 +90,14 @@ Earth science (also known as geoscience) is the study of the Earth — its compo
 - **Climate Science**: Understanding and mitigating climate change
 - **Engineering**: Foundation geology, tunnel construction, dam sites
 - **Archaeology**: Dating methods, paleoenvironment reconstruction
+
+## Classic Works
+
+- **"Principles of Physical Geology"** by Arthur Holmes — Foundational text that championed continental drift before plate tectonics was accepted
+- **"Earth: An Introduction to Physical Geology"** by Tarbuck & Lutgens — The standard introductory geology textbook; clear, well-illustrated, and comprehensive
+- **"Principles of Geology"** by Charles Lyell — The 19th-century work that established uniformitarianism; profoundly influenced Darwin
+- **"The Earth's Dynamic Systems"** by Hamblin & Kennett — Systematic treatment of plate tectonics and Earth processes with strong visual approach
+- **"Basin Analysis"** by Allen & Allen — Authoritative text on sedimentary basin formation; essential for petroleum geology and stratigraphy
 
 ## See Also
 

@@ -110,6 +110,14 @@ Linguistics is the scientific study of language — its structure (phonetics, ph
 - **William Labov**: Sociolinguistics; language variation and change
 - **Steven Pinker**: Language instinct; psycholinguistics
 
+## Frontiers
+
+- **Language and Large Language Models**: How do models like GPT process and generate language? Do they learn grammar or just statistical patterns, and what does this tell us about human linguistic cognition?
+- **The Origins of Language**: When and how did human language emerge? The lack of direct evidence makes this one of the hardest open questions in science
+- **Language Endangerment and Revitalization**: Roughly half of the world's 7,000 languages may disappear this century; what are the most effective strategies for documentation and revitalization?
+- **Universal Grammar Under Challenge**: Chomsky's innateness hypothesis faces mounting criticism from usage-based, emergentist, and typological approaches that emphasize language as a cultural and cognitive adaptation
+- **The Neuroscience of Language**: How does the brain encode, process, and produce language? Advances in neuroimaging are refining — and complicating — classic models like Broca's and Wernicke's areas
+
 ## Applications
 
 - **NLP & AI**: Machine translation, chatbots, voice assistants, text mining
@@ -119,6 +127,14 @@ Linguistics is the scientific study of language — its structure (phonetics, ph
 - **Lexicography**: Dictionary design and compilation
 - **Translation & Interpretation**: Literary, technical, conference translation
 - **Language Documentation**: Endangered language preservation
+
+## Classic Works
+
+- **"Course in General Linguistics"** by Ferdinand de Saussure — Foundational text of modern linguistics; introduces the concepts of the sign, langue vs parole, and synchronic analysis
+- **"Aspects of the Theory of Syntax"** by Noam Chomsky — Establishes generative grammar and the competence/performance distinction; reshapes the field around formal syntax
+- **"The Language Instinct"** by Steven Pinker — Accessible account of the nativist view of language acquisition; argues that language is a biological adaptation, not a cultural invention
+- **"Language"** by Edward Sapir — Classic introduction to linguistics that emphasizes the relationship between language, culture, and thought; early formulation of linguistic relativity
+- **"Sociolinguistic Patterns"** by William Labov — Establishes empirical methods for studying language variation and change in real communities; founding work of variationist sociolinguistics
 
 ## See Also
 

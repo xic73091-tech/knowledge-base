@@ -103,6 +103,14 @@ Military science is the study of military strategy, tactics, operations, logisti
 - **Dwight D. Eisenhower**: Supreme Allied Commander; D-Day; Cold War strategy
 - **Vo Nguyen Giap**: Vietnamese insurgency; asymmetric warfare
 
+## Frontiers
+
+- **AI in Military Decision-Making**: Autonomous targeting, predictive logistics, and command support — where should humans remain in the loop?
+- **Autonomous Weapons & Ethics**: Lethal autonomous weapons systems (LAWS); international debates on banning or regulating "killer robots"
+- **Cyber Warfare Doctrine**: Establishing norms for state-sponsored cyber operations; attribution challenges; threshold for armed attack in cyberspace
+- **Hypersonic Weapons & Arms Control**: Hypersonic glide vehicles and scramjet missiles destabilizing existing deterrence frameworks; new treaty challenges
+- **Cognitive Warfare**: Targeting the mind through information operations, deepfakes, and social media manipulation; blurring war and peace
+
 ## Applications
 
 - **Military Service**: Active duty, reserves, national guard
@@ -112,6 +120,14 @@ Military science is the study of military strategy, tactics, operations, logisti
 - **Diplomacy**: Arms control, alliance management, conflict resolution
 - **Security Studies**: Academic research, think tanks, policy analysis
 - **Humanitarian Assistance**: Disaster relief, refugee support, peacekeeping
+
+## Classic Works
+
+- **"On War"** by Carl von Clausewitz (1832) — Foundational text of Western military theory; war as a continuation of politics; friction; the trinity
+- **"The Art of War"** by Sun Tzu (5th century BC) — Ancient Chinese treatise on strategy; deception, intelligence, and winning without fighting
+- **"Strategy: The Indirect Approach"** by B. H. Liddell Hart (1954) — Argues that the most effective strategy avoids direct confrontation in favor of dislocation
+- **"The Influence of Sea Power upon History"** by Alfred Thayer Mahan (1890) — Defined naval strategy and the link between sea control and national power
+- **"Strategy in the Missile Age"** by Bernard Brodie (1959) — Seminal work on nuclear deterrence strategy and the revolution in warfare brought by atomic weapons
 
 ## See Also
 

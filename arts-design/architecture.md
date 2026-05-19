@@ -106,6 +106,14 @@ Architecture is both the process and product of planning, designing, and constru
 - **Bjarke Ingels**: Pragmatic utopian; BIG; sustainable innovation
 - **Shigeru Ban**: Paper architecture; humanitarian design; disaster relief
 
+## Frontiers
+
+- **Mass Timber & Bio-Based Construction**: Engineered wood products (CLT, glulam) rival steel in strength with far lower embodied carbon — but fire codes, supply chains, and tall-building limits are still being resolved.
+- **AI-Driven Generative Design**: Algorithms can explore thousands of design permutations optimized for energy, cost, or daylight — the question is how much design agency to delegate to machines.
+- **Climate Adaptation & Resilience Architecture**: Designing buildings and cities for extreme heat, flooding, and wildfire is now urgent; performance-based codes lag behind the science.
+- **Housing Affordability & Missing Middle**: Zoning reform, modular construction, and co-housing models aim to close the gap between what gets built and what people can afford.
+- **Post-Pandemic Workspace Design**: Hybrid work has destabilized the office-as-default; architects are rethinking density, ventilation, and the social role of the workplace.
+
 ## Applications
 
 - **Residential Design**: Houses, apartments, housing developments
@@ -115,6 +123,14 @@ Architecture is both the process and product of planning, designing, and constru
 - **Healthcare**: Hospitals, clinics, wellness centers
 - **Infrastructure**: Airports, train stations, bridges
 - **Humanitarian**: Disaster relief, refugee shelters, affordable housing
+
+## Classic Works
+
+- **"Architecture: Form, Space, & Order"** by Francis D.K. Ching — The definitive visual introduction to architectural vocabulary; diagrams and drawings make concepts intuitive
+- **"Towards a New Architecture"** by Le Corbusier — Modernist manifesto arguing for architecture as machine-age efficiency and pure form; enormously influential and contentious
+- **"Complexity and Contradiction in Architecture"** by Robert Venturi — Counter-manifesto to modernism; argues for richness, ambiguity, and "both-and" over "either-or"
+- **"A Pattern Language"** by Christopher Alexander — Catalog of 253 design patterns for humane built environments; influenced both architecture and software design
+- **"The Eyes of the Skin"** by Juhani Pallasmaa — Argues architecture has over-prioritized the visual at the expense of touch, sound, and bodily experience
 
 ## See Also
 

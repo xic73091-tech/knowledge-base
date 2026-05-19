@@ -103,6 +103,14 @@ Sports science (exercise science/kinesiology) is the study of how the human body
 - **Anders Ericsson**: Deliberate practice; expertise research
 - **Tim Noakes**: Central governor theory; exercise physiology
 
+## Frontiers
+
+- **Wearable Biometrics & Real-Time Monitoring**: Continuous tracking of heart rate variability, muscle oxygen, and fatigue markers — translating data into actionable coaching decisions
+- **AI-Driven Performance Analysis**: Computer vision and machine learning for technique analysis, injury prediction, and tactical pattern recognition
+- **Concussion Prevention & Long-Term Brain Health**: CTE research; improved sideline diagnostics; rule changes; the long-term cost of contact sports
+- **Genetics & Athletic Potential**: Polygenic scores for talent identification; gene doping threats; ethical boundaries of genetic selection in sport
+- **Mental Health in Elite Athletes**: Destigmatizing psychological support; burnout, anxiety, and depression in professional sport; structural vs individual interventions
+
 ## Applications
 
 - **Coaching**: Professional, amateur, youth, strength and conditioning
@@ -112,6 +120,14 @@ Sports science (exercise science/kinesiology) is the study of how the human body
 - **Public Health**: Exercise prescription, physical activity promotion
 - **Sports Management**: Event management, facility operations, governance
 - **Sports Broadcasting**: Commentary, analysis, journalism
+
+## Classic Works
+
+- **"The Sports Gene: Inside the Science of Extraordinary Athletic Performance"** by David Epstein (2013) — Explores the nature-nurture debate in athletic talent; challenges the 10,000-hour rule
+- **"Peak: Secrets from the New Science of Expertise"** by Anders Ericsson & Robert Pool (2016) — Definitive account of deliberate practice and how expert performance is developed
+- **"Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance"** by Alex Hutchinson (2018) — Examines the interplay of physiology and psychology in pushing human limits
+- **"The Runner's Body: How the Science of Running Can Make You a Better Runner"** by Ross Tucker & Jonathan Dugas (2009) — Evidence-based guide to running physiology and training science
+- **"Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding"** by Daniel Lieberman (2021) — Evolutionary perspective on exercise, debunking myths about how our bodies are "meant" to move
 
 ## See Also
 

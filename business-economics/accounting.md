@@ -87,6 +87,14 @@ Accounting is the systematic process of recording, summarizing, analyzing, and r
 - **AICPA**: American Institute of CPAs; standard-setting
 - **IASB**: International Accounting Standards Board; IFRS
 
+## Frontiers
+
+- **AI in Audit & Assurance**: How machine learning transforms anomaly detection, continuous auditing, and the auditor's role — and whether algorithmic judgment meets independence standards
+- **Sustainability Reporting & ESG Accounting**: Developing globally consistent standards (ISSB, CSRD) for non-financial disclosures; reconciling voluntary frameworks with mandatory requirements
+- **Cryptocurrency & Digital Asset Accounting**: How to classify, measure, and report crypto holdings, DeFi positions, and tokenized assets under existing and evolving standards
+- **Real-Time Financial Reporting**: Whether continuous close and real-time disclosure can replace periodic reporting, and its implications for market efficiency and auditor workload
+- **Global Convergence of Accounting Standards**: The ongoing challenge of aligning US GAAP and IFRS on leases, revenue recognition, and financial instruments despite decades of convergence efforts
+
 ## Applications
 
 - **Public Accounting**: Audit, tax, advisory services (Big 4 firms)
@@ -95,6 +103,14 @@ Accounting is the systematic process of recording, summarizing, analyzing, and r
 - **Forensic Accounting**: Fraud investigation, litigation support, expert testimony
 - **Tax Advisory**: Compliance, planning, international tax
 - **Nonprofit Accounting**: Fund accounting, grant management, donor reporting
+
+## Classic Works
+
+- **"Intermediate Accounting"** by Kieso, Weygandt & Warfield — The standard textbook for financial accounting; comprehensive coverage of GAAP with extensive examples and practice
+- **"Accounting Made Simple"** by Mike Piper — Accessible introduction to accounting fundamentals; ideal for non-accountants who need to understand financial statements
+- **"Financial Shenanigans"** by Howard Schilit — Forensic guide to detecting earnings manipulation and accounting tricks; essential reading for analysts and auditors
+- **"Cost Accounting: A Managerial Emphasis"** by Charles Horngren, Srikant Datar & Madhav Rajan — The authoritative text on managerial and cost accounting; bridges theory and practice
+- **"The Interpretation of Financial Statements"** by Benjamin Graham — Concise guide to reading balance sheets, income statements, and cash flows from the father of value investing
 
 ## See Also
 

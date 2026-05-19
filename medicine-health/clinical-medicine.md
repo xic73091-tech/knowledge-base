@@ -99,6 +99,14 @@ Clinical medicine is the branch of medicine that deals with the diagnosis, treat
 - **Christiaan Barnard**: First heart transplant
 - **Virginia Apgar**: Apgar score for newborn assessment
 
+## Frontiers
+
+- **AI-Augmented Diagnostics**: How reliably can deep learning models interpret imaging, pathology slides, and ECGs compared to specialist physicians, and how should liability be shared?
+- **Multi-Cancer Early Detection**: Liquid biopsy assays (ctDNA, methylation patterns) promise a single blood test for dozens of cancers, but sensitivity, false-positive rates, and cost-effectiveness remain under active study
+- **Long COVID Mechanisms**: The pathophysiology of persistent post-infectious symptoms — viral reservoirs, autoimmunity, microvascular damage — is still poorly understood and lacks targeted therapies
+- **Antimicrobial Resistance**: New antibiotic classes, phage therapy, and anti-virulence strategies are urgently needed as resistance outpaces drug development
+- **Organoid & Organ-on-a-Chip Models**: Patient-derived organoids and microfluidic chips may replace animal models for drug testing and personalized therapy, but standardization and regulatory acceptance are ongoing
+
 ## Applications
 
 - **Primary Care**: Preventive medicine, chronic disease management, health maintenance
@@ -106,6 +114,14 @@ Clinical medicine is the branch of medicine that deals with the diagnosis, treat
 - **Telemedicine**: Remote consultations, monitoring, digital health
 - **Global Health**: Disease eradication, healthcare access, pandemic response
 - **Precision Medicine**: Genomics-based treatment; pharmacogenomics
+
+## Classic Works
+
+- **"Harrison's Principles of Internal Medicine"** by Dennis Kasper et al. — The gold-standard reference for internal medicine; comprehensive coverage of pathophysiology, diagnosis, and treatment
+- **"The House of God"** by Samuel Shem — A novel that shaped medical culture; raw depiction of residency training and the emotional toll of medicine
+- **"Clinical Examination"** by Nicholas Talley and Simon O'Connor — Systematic guide to history-taking and physical examination skills
+- **"Sabiston Textbook of Surgery"** by Courtney Townsend et al. — Definitive surgical reference covering principles, techniques, and subspecialties
+- **"The Principles and Practice of Medicine"** by William Osler — The 1892 textbook that modernized clinical teaching; Osler's emphasis on bedside observation remains foundational
 
 ## See Also
 

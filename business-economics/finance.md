@@ -93,6 +93,14 @@ Finance is the study and management of money, investments, and financial instrum
 - **Eugene Fama**: Efficient Market Hypothesis
 - **John Bogle**: Index fund investing; Vanguard founder
 
+## Frontiers
+
+- **Climate Finance & ESG Integration**: How to accurately price climate risk into asset valuations and develop standardized ESG metrics that reliably predict long-term performance
+- **Decentralized Finance (DeFi)**: Whether blockchain-based financial protocols can achieve institutional-grade stability, regulatory compliance, and true disintermediation of traditional intermediaries
+- **AI in Asset Management**: How machine learning models handle non-stationary financial data, regime changes, and whether algorithmic strategies erode their own alpha as they scale
+- **Monetary Policy Transmission in Digital Currencies**: How central bank digital currencies (CBDCs) reshape monetary policy tools, bank disintermediation risks, and financial inclusion
+- **Market Microstructure & High-Frequency Trading**: The impact of sub-millisecond trading on price discovery, market fairness, and systemic fragility
+
 ## Applications
 
 - **Investment Management**: Portfolio construction, asset allocation, security analysis
@@ -101,6 +109,14 @@ Finance is the study and management of money, investments, and financial instrum
 - **Financial Planning**: Retirement, estate, tax planning
 - **Risk Management**: Insurance, hedging, compliance
 - **FinTech**: Digital banking, blockchain, algorithmic trading
+
+## Classic Works
+
+- **"Security Analysis"** by Benjamin Graham & David Dodd — The foundational text on value investing; established the discipline of analyzing intrinsic value versus market price
+- **"A Random Walk Down Wall Street"** by Burton Malkiel — Made the case for efficient markets and index investing accessible to a broad audience; shaped the passive investing movement
+- **"Options, Futures, and Other Derivatives"** by John Hull — The standard graduate-level textbook for derivatives pricing and risk management; rigorous yet practical
+- **"Principles of Corporate Finance"** by Brealey, Myers & Allen — The canonical corporate finance textbook covering capital budgeting, capital structure, and valuation
+- **"The Intelligent Investor"** by Benjamin Graham — Warren Buffett's "best book on investing ever written"; timeless framework for disciplined, long-term investing
 
 ## See Also
 

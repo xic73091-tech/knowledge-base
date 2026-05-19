@@ -93,6 +93,14 @@ Visual arts encompass the creation of works that are primarily visual in nature 
 - **Marina Abramović**: Performance art pioneer
 - **Ai Weiwei**: Contemporary Chinese art; political activism
 
+## Frontiers
+
+- **AI-Generated Art & Authorship**: Who is the artist when a machine generates the image — the prompter, the model, or its training data creators? Legal and philosophical debates remain unresolved.
+- **NFTs and Digital Ownership**: Blockchain-based art challenged traditional gallery models, but questions about long-term value, environmental cost, and speculative bubbles persist.
+- **Decolonizing the Museum**: Repatriation of colonial-era artifacts, diversifying collections and curatorial voices, and rethinking who art institutions serve.
+- **Measuring Art's Social Impact**: How do we rigorously evaluate claims that art improves well-being, community cohesion, or public health — beyond anecdotal evidence?
+- **Immersive & Extended Reality Art**: VR, AR, and mixed-reality installations raise new questions about embodiment, spectatorship, and what constitutes an "exhibition space."
+
 ## Applications
 
 - **Fine Art**: Gallery representation, museum exhibitions, art market
@@ -101,6 +109,14 @@ Visual arts encompass the creation of works that are primarily visual in nature 
 - **Public Art**: Murals, sculptures, installations in public spaces
 - **Art Education**: Teaching, workshops, community programs
 - **Conservation**: Preserving and restoring artworks
+
+## Classic Works
+
+- **"The Story of Art"** by E.H. Gombrich — The most widely read introduction to art history; accessible narrative covering prehistoric to modern art
+- **"Art and Visual Perception"** by Rudolf Arnheim — Foundational work applying Gestalt psychology to visual analysis; essential for understanding how we see
+- **"Ways of Seeing"** by John Berger — Marxist critique of how images carry ideology; reshaped how audiences think about the gaze and representation
+- **"The Art Spirit"** by Robert Henri — Beloved guide to painting practice and the artist's mindset; still assigned in studio programs worldwide
+- **"On Photography"** by Susan Sontag — Seminal essay collection on the ethics and philosophy of photographic images
 
 ## See Also
 

@@ -113,6 +113,14 @@ Philosophy is the study of fundamental questions about existence, knowledge, val
 - **Simone de Beauvoir**: Existentialist feminism; The Second Sex
 - **Hannah Arendt**: Political philosophy; banality of evil
 
+## Frontiers
+
+- **Machine Consciousness**: Can artificial systems be conscious? How would we test or verify subjective experience in non-biological substrates?
+- **Moral Realism and Evolutionary Debunking**: If moral intuitions evolved for survival rather than truth, does that undermine moral objectivity?
+- **Foundations of Quantum Mechanics**: Interpretations (many-worlds, Copenhagen, Bohmian) carry deep metaphysical implications about reality, determinism, and observation
+- **AI Ethics and Alignment**: How do we encode human values into autonomous systems? The alignment problem, trolley problems at scale, and moral responsibility for machine decisions
+- **Extended Mind and Cognitive Technology**: Do smartphones and AI tools extend our cognitive processes? Where does the mind end and the environment begin?
+
 ## Applications
 
 - **Ethics Committees**: Bioethics, AI ethics, research ethics
@@ -121,6 +129,14 @@ Philosophy is the study of fundamental questions about existence, knowledge, val
 - **Education**: Critical thinking, logic, ethical reasoning
 - **Business**: Corporate ethics, stakeholder theory, CSR
 - **Mental Health**: Philosophy of mind, meaning and purpose
+
+## Classic Works
+
+- **"The Republic"** by Plato — Foundational text on justice, governance, and the ideal state; introduces the Theory of Forms and the allegory of the cave
+- **"Nicomachean Ethics"** by Aristotle — Systematic treatment of virtue ethics, practical wisdom, and the good life; still the starting point for character-based moral philosophy
+- **"Critique of Pure Reason"** by Immanuel Kant — Attempts to reconcile rationalism and empiricism; transforms epistemology and metaphysics with the concept of synthetic a priori knowledge
+- **"Being and Time"** by Martin Heidegger — Fundamental ontology; reorients philosophy around the question of Being and human existence (Dasein)
+- **"A Theory of Justice"** by John Rawls — Revives political philosophy with the veil of ignorance and the difference principle; modern liberalism's cornerstone text
 
 ## See Also
 

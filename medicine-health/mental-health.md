@@ -101,6 +101,14 @@ Mental health encompasses emotional, psychological, and social well-being. It af
 - **Kay Redfield Jamison**: Bipolar disorder advocacy; An Unquiet Mind
 - **Viktor Frankl**: Logotherapy; Man's Search for Meaning
 
+## Frontiers
+
+- **Psychedelic-Assisted Therapy**: Psilocybin, MDMA, and ketamine show rapid and sustained effects for depression, PTSD, and addiction, but optimal protocols, long-term safety, and mechanisms of action are still being defined
+- **Digital Phenotyping**: Passive smartphone and wearable data (sleep, movement, social interaction) may enable early detection of mood episodes and psychotic relapse — privacy and clinical validity are unresolved
+- **Biomarkers for Mental Illness**: Blood-based markers, neuroimaging signatures, and genetic risk scores could move psychiatry toward objective diagnosis, but replication and clinical utility remain elusive
+- **Transdiagnostic Approaches**: Treating shared mechanisms (e.g., emotion dysregulation, negative valence) across diagnostic categories rather than discrete disorders — reshaping both research and treatment frameworks
+- **Global Mental Health Scale-Up**: Delivering evidence-based interventions in low-resource settings through task-shifting, digital platforms, and community-based models is a massive implementation challenge
+
 ## Applications
 
 - **Clinical Practice**: Assessment, diagnosis, therapy, medication management
@@ -109,6 +117,14 @@ Mental health encompasses emotional, psychological, and social well-being. It af
 - **School Psychology**: Counseling, assessment, behavioral intervention
 - **Digital Mental Health**: Teletherapy, mental health apps, AI-assisted screening
 - **Forensic Mental Health**: Competency evaluations, criminal responsibility, risk assessment
+
+## Classic Works
+
+- **"Cognitive Therapy of Depression"** by Aaron Beck et al. — The foundational text on cognitive therapy; articulates the cognitive model and its application to depression with empirical rigor
+- **"Man's Search for Meaning"** by Viktor Frankl — Memoir and theoretical statement on logotherapy; demonstrates how meaning-making sustains psychological survival under extreme suffering
+- **"Diagnostic and Statistical Manual of Mental Disorders (DSM-5-TR)"** by the American Psychiatric Association — The standard classification system for mental disorders in clinical and research settings
+- **"Cognitive-Behavioral Treatment of Borderline Personality Disorder"** by Marsha Linehan — The manual that operationalized DBT; transformed treatment of a previously "untreatable" population
+- **"An Unquiet Mind"** by Kay Redfield Jamison — A psychiatrist's memoir of living with bipolar disorder; broke ground in reducing stigma through personal disclosure
 
 ## See Also
 

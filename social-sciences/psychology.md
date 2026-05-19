@@ -99,6 +99,14 @@ Psychology is the scientific study of the mind and behavior. It encompasses the 
 - **Daniel Kahneman**: Cognitive biases; prospect theory
 - **Philip Zimbardo**: Stanford Prison Experiment; situational forces
 
+## Frontiers
+
+- **Replication Crisis and Open Science**: Addressing methodological weaknesses across the field; pre-registration, transparency initiatives, and reproducibility standards
+- **Computational Psychiatry**: Using AI and machine learning to model mental disorders, predict treatment outcomes, and personalize therapy
+- **Psychedelic-Assisted Therapy**: Renewed clinical research into psilocybin, MDMA, and ketamine for depression, PTSD, and addiction treatment
+- **Global Mental Health**: Adapting psychological interventions for diverse cultural contexts; task-shifting and scalability in low-resource settings
+- **Consciousness Studies**: The hard problem of consciousness; integrated information theory; competing frameworks for understanding subjective experience
+
 ## Applications
 
 - **Mental Health**: Therapy, counseling, psychiatric assessment
@@ -108,6 +116,14 @@ Psychology is the scientific study of the mind and behavior. It encompasses the 
 - **Health**: Health behaviors, chronic illness coping, pain management
 - **UX/Design**: User research, cognitive load, interface design
 - **Sports**: Performance psychology, motivation, team cohesion
+
+## Classic Works
+
+- **"The Interpretation of Dreams"** by Sigmund Freud — Launched psychoanalysis; introduced the concept of the unconscious mind
+- **"Thinking, Fast and Slow"** by Daniel Kahneman — Comprehensive overview of cognitive biases and dual-process theory; reshaped behavioral science
+- **"Principles of Psychology"** by William James — Early foundational text of the discipline; functionalist approach to mind and behavior
+- **"Obedience to Authority"** by Stanley Milgram — Landmark experimental study on conformity; transformed understanding of social influence
+- **"Man's Search for Meaning"** by Viktor Frankl — Introduced logotherapy; enduring account of human resilience and meaning-making under extreme suffering
 
 ## See Also
 

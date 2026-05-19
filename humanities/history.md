@@ -101,6 +101,14 @@ History is the study of the past — events, people, societies, and civilization
 - **Fernand Braudel**: Mediterranean world; Annales school
 - **Howard Zinn**: A People's History of the United States
 
+## Frontiers
+
+- **Deep History and Big History**: Integrating archaeological, geological, and biological evidence into narratives that span millions of years, challenging the primacy of written records
+- **Digital History and Computational Methods**: Using text mining, GIS, network analysis, and large-scale data to identify patterns invisible to traditional close reading
+- **Decolonizing the Archive**: Whose voices are preserved and whose are silenced? Reconstructing subaltern histories from fragmentary and biased colonial records
+- **Memory Studies and Contested Pasts**: How societies remember and forget; memorialization, historical trauma, and the politics of monuments and commemorations
+- **Climate and Environmental History**: Understanding past human-environment interactions to inform responses to the current climate crisis; the Anthropocene as a historical category
+
 ## Applications
 
 - **Policy Analysis**: Historical context for current decisions
@@ -109,6 +117,14 @@ History is the study of the past — events, people, societies, and civilization
 - **Museums & Heritage**: Preservation, interpretation, public history
 - **Journalism**: Long-form reporting, investigative history
 - **Genealogy**: Family history, DNA and archival research
+
+## Classic Works
+
+- **"The Histories"** by Herodotus — The foundational work of Western historiography; narrative account of the Greco-Persian Wars with ethnographic digressions
+- **"The Muqaddimah"** by Ibn Khaldun — Pioneering treatise on the philosophy of history; cyclical theory of civilizations and the role of social cohesion (asabiyyah)
+- **"The Mediterranean and the Mediterranean World in the Age of Philip II"** by Fernand Braudel — Landmark of the Annales school; demonstrates the longue durée approach to structural history
+- **"The Oxford History of the French Revolution"** by William Doyle — Rigorous single-volume account that balances political, social, and cultural dimensions of 1789
+- **"A People's History of the United States"** by Howard Zinn — Retells American history from the perspective of marginalized groups; influential for public history and social history
 
 ## See Also
 
