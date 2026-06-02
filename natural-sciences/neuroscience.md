@@ -4,12 +4,12 @@ subdomain: neuroscience
 title: "Neuroscience"
 description: "The scientific study of the nervous system and brain function"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [brain, neurons, cognition, perception, consciousness, neural networks, neuroplasticity]
+updated: 2026-06-02
+tags: [brain, neurons, cognition, perception, consciousness, neural networks, neuroplasticity, neurodegeneration, BCI, neuroengineering, computational-neuroscience]
 prerequisites: [natural-sciences/biology, natural-sciences/chemistry]
 related: [social-sciences/psychology, engineering-technology/biomedical-engineering, medicine-health/mental-health]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Neuroscience
@@ -48,16 +48,62 @@ Neuroscience is the scientific study of the nervous system — from the molecula
 - **Myelination**: Progressive insulation of axons; continues into mid-20s (prefrontal cortex last)
 
 ### Molecular & Cellular Mechanisms
-- **Neurotransmitter Systems**: Dopamine (reward, movement), serotonin (mood), acetylcholine (memory, attention), norepinephrine (arousal)
-- **Receptor Pharmacology**: Ionotropic (fast) vs metabotropic (slow) receptors; agonists and antagonists
-- **Signal Transduction**: Second messenger cascades; gene expression changes underlying long-term plasticity
-- **Neuroplasticity**: Long-term potentiation (LTP) and long-term depression (LTD); structural and functional reorganization
+- **Neurotransmitter Systems**: Dopamine (reward, movement), serotonin (mood), acetylcholine (memory, attention), norepinephrine (arousal), GABA (inhibition), glutamate (excitation)
+- **Receptor Pharmacology**: Ionotropic (fast) vs metabotropic (slow) receptors; agonists, antagonists, inverse agonists; allosteric modulators
+- **Signal Transduction**: Second messenger cascades (cAMP, IP3/DAG); G-protein coupled receptors; protein kinases and phosphatases
+- **Neuroplasticity**: Long-term potentiation (LTP) and long-term depression (LTD); spike-timing-dependent plasticity (STDP); structural and functional reorganization
+- **Axonal Transport**: Anterograde (kinesin) vs retrograde (dynein); fast vs slow transport; neurotrophic factors (NGF, BDNF)
 
-### Computational Neuroscience
-- **Neural Coding**: Rate coding vs temporal coding; population coding
-- **Spiking Neural Networks**: Biologically realistic neuron models (Hodgkin-Huxley, integrate-and-fire)
-- **Bayesian Brain**: Brain as inference machine; predictive processing
-- **Reinforcement Learning**: Dopamine prediction error signals mirror temporal difference learning
+### Neurodegenerative Diseases
+- **Alzheimer's Disease**: Beta-amyloid plaques, tau tangles; cholinergic hypothesis; genetic risk factors (APOE ε4)
+- **Parkinson's Disease**: Dopamine depletion in substantia nigra; Lewy bodies; α-synuclein aggregation; L-DOPA treatment; deep brain stimulation
+- **Amyotrophic Lateral Sclerosis (ALS)**: Motor neuron degeneration; C9ORF72, SOD1 mutations; glutamate excitotoxicity
+- **Huntington's Disease**: Autosomal dominant; CAG repeat expansion; striatal degeneration; chorea movements
+- **Multiple Sclerosis (MS)**: Autoimmune demyelination; relapsing-remitting vs progressive forms; immunomodulatory therapies
+- **Prion Diseases**: Transmissible spongiform encephalopathies; misfolded prion protein; Creutzfeldt-Jakob disease
+
+### Brain-Computer Interfaces (BCIs)
+- **Invasive BCIs**: Intracortical arrays (Utah Array, Neuropixels); motor cortex control of prosthetics; speech restoration
+- **Non-Invasive BCIs**: EEG-based (motor imagery, P300); fMRI-based; near-infrared spectroscopy (NIRS)
+- **Semi-Invasive BCIs**: Epidural arrays; electrocorticography (ECoG)
+- **Applications**: Motor rehabilitation; communication for locked-in patients; neural prosthetics; cognitive enhancement
+- **Challenges**: Long-term stability; biocompatibility; signal decoding accuracy; ethical considerations
+
+### Neural Engineering
+- **Neuroprosthetics**: Cochlear implants (auditory), retinal prostheses (visual), deep brain stimulation (movement disorders)
+- **Optogenetics**: Channelrhodopsin (ChR2), halorhodopsin (NpHR); light-gated ion channels; precise neural control
+- **DREADDs**: Designer receptors exclusively activated by designer drugs; chemogenetic control
+- **Neurotrophic Factor Delivery**: Gene therapy; stem cell transplantation; tissue engineering
+- **Closed-Loop Systems**: Real-time neural recording and stimulation; adaptive deep brain stimulation
+
+### Systems Neuroscience (Advanced)
+- **Default Mode Network (DMN)**: Active during rest; mind-wandering, self-referential thought; disrupted in psychiatric disorders
+- **Salience Network**: Detecting behaviorally relevant stimuli; anterior insula, dorsal anterior cingulate cortex
+- **Attention Networks**: Dorsal attention (goal-directed), ventral attention (stimulus-driven), executive control
+- **Reward System**: Ventral tegmental area (VTA), nucleus accumbens; dopamine reward prediction error; motivation
+- **Sleep & Circadian Rhythms**: Sleep stages (NREM, REM); suprachiasmatic nucleus (SCN); melatonin; sleep disorders
+
+### Computational Neuroscience (Advanced)
+- **Neural Coding**: Rate coding, temporal coding, phase coding; population vector decoding; sparse coding
+- **Neuron Models**: Hodgkin-Huxley (biophysical), integrate-and-fire (simplified), leaky integrate-and-fire
+- **Network Models**: Hopfield networks, Boltzmann machines, recurrent neural networks; attractor dynamics
+- **Predictive Coding**: Hierarchical Bayesian inference; generative models; prediction error minimization
+- **Reinforcement Learning in Brains**: Temporal difference learning; dopamine as reward prediction error; actor-critic models
+- **Large-Scale Brain Models**: Blue Brain Project; whole-brain simulation; connectome-based modeling
+
+### Behavioral Neuroscience
+- **Learning & Memory**: Associative learning (Pavlovian conditioning), operant conditioning; fear conditioning (amygdala)
+- **Emotion**: Fear (amygdala), pleasure (nucleus accumbens), stress response (HPA axis); emotional memory
+- **Social Behavior**: Oxytocin and bonding; mirror neurons; empathy; aggression; social cognition
+- **Motivation & Reward**: Drive reduction theory; incentive salience; hedonic vs motivational aspects
+- **Addiction**: Drug-induced plasticity; dopamine dysregulation; craving and relapse mechanisms
+
+### Neuroimmunology
+- **Microglia**: Resident immune cells; phagocytosis; synaptic pruning; neuroinflammation
+- **Blood-Brain Barrier (BBB)**: Endothelial cells, astrocyte endfeet; selective permeability; disruption in disease
+- **Cytokines in Brain**: Pro-inflammatory (TNF-α, IL-1β) vs anti-inflammatory (IL-4, IL-10); effects on behavior
+- **Gut-Brain Axis**: Microbiome influence on brain function; vagus nerve signaling; mood and cognition
+- **Autoimmune Neurological Disorders**: Multiple sclerosis, myasthenia gravis, Guillain-Barré syndrome
 
 ### Research Methods
 - **Neuroimaging**: fMRI (spatial resolution), EEG/MEG (temporal resolution), PET (molecular), diffusion tensor imaging (connectivity)
@@ -74,6 +120,12 @@ Neuroscience is the scientific study of the nervous system — from the molecula
 | Connectionism | Cognitive functions emerge from networks of simple processing units |
 | Global Workspace Theory | Consciousness arises from global broadcast of information across cortical networks |
 | Predictive Processing | Brain constantly generates predictions and updates based on prediction errors |
+| Neuron Doctrine | Neurons are discrete cells that communicate via synapses (Ramón y Cajal) |
+| Neural Darwinism | Selection among neuronal groups shapes brain development (Edelman) |
+| Integrated Information Theory (IIT) | Consciousness as integrated information (Tononi) |
+| Synaptic Plasticity | Activity-dependent changes in synaptic strength underlie learning and memory |
+| Dopamine Reward Prediction Error | Dopamine signals discrepancy between expected and actual reward (Schultz) |
+| Bayesian Brain Hypothesis | Brain performs probabilistic inference to interpret sensory input |
 
 ## Important Figures
 

@@ -4,12 +4,12 @@ subdomain: data-science
 title: "Data Science & Engineering"
 description: "The practice of extracting knowledge and building systems from large-scale data"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [data, big data, machine learning, pipelines, analytics, visualization, ETL, cloud]
+updated: 2026-06-02
+tags: [data, big data, machine learning, pipelines, analytics, visualization, ETL, cloud, MLOps, data-governance, deep-learning, feature-stores]
 prerequisites: [engineering-technology/computer-science, natural-sciences/statistics]
 related: [natural-sciences/statistics, engineering-technology/computer-science, social-sciences/economics]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Data Science & Engineering
@@ -21,12 +21,29 @@ Data science combines statistics, computer science, and domain expertise to extr
 ## Core Concepts
 
 ### Data Engineering
-- **Data Pipelines**: ETL (Extract, Transform, Load) and ELT; batch vs streaming; orchestration (Airflow, Prefect)
-- **Data Storage**: Data warehouses (Snowflake, BigQuery, Redshift), data lakes (S3, Delta Lake), lakehouses
-- **Data Modeling**: Star schema, snowflake schema; dimensional modeling; slowly changing dimensions
-- **Batch Processing**: MapReduce, Apache Spark, Hadoop; processing large historical datasets
-- **Stream Processing**: Apache Kafka, Flink, Spark Streaming; real-time event processing
-- **Data Quality**: Validation, deduplication, missing value handling; data contracts; observability
+- **Data Pipelines**: ETL (Extract, Transform, Load) and ELT; batch vs streaming; orchestration (Airflow, Prefect, Dagster); idempotency; retry logic; dead-letter queues
+- **Data Storage**: Data warehouses (Snowflake, BigQuery, Redshift, Databricks SQL), data lakes (S3, ADLS, GCS, Delta Lake, Iceberg, Hudi), lakehouses; columnar vs row storage; column compression
+- **Data Modeling**: Star schema, snowflake schema; dimensional modeling; slowly changing dimensions (SCD types 1-6); fact tables (transactional, periodic snapshot, accumulating snapshot)
+- **Batch Processing**: MapReduce, Apache Spark, Hadoop, Dask; processing large historical datasets; partitioning; bucketing; caching strategies
+- **Stream Processing**: Apache Kafka, Flink, Spark Streaming, Kafka Streams; real-time event processing; windowing (tumbling, sliding, session); exactly-once semantics
+- **Data Quality**: Validation (Great Expectations, dbt tests), deduplication, missing value handling; data contracts; observability (data freshness, latency, error rates); profiling (Pandas Profiling, ydata-profiling)
+- **Data Integration**: CDC (Change Data Capture) with Debezium; data synchronization; master data management (MDM); data virtualization
+
+### Data Governance & Metadata Management
+- **Data Catalogs**: Discovery and documentation; tools (Amundsen, DataHub, Collibra); lineage tracking
+- **Data Governance Frameworks**: Roles (data owner, data steward, data engineer); policies; compliance (GDPR, CCPA, HIPAA)
+- **Access Control**: RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control); data masking; encryption at rest and in transit
+- **Metadata Management**: Business glossaries; data dictionaries; schema evolution; versioning
+- **Data Lineage**: End-to-end tracking from source to consumption; impact analysis; root cause analysis
+
+### MLOps (Advanced)
+- **Model Lifecycle Management**: Training, validation, deployment, monitoring, retirement; MLOps maturity stages
+- **Experiment Tracking**: MLflow, Weights & Biases, Neptune; hyperparameter tracking; artifact storage; reproducibility
+- **Model Versioning**: DVC, Git LFS, MLflow Model Registry; model lineage; A/B/n testing
+- **Model Deployment**: Batch inference, real-time inference (REST/gRPC), serverless (AWS Lambda, Google Cloud Functions); model serving (TorchServe, TensorRT, ONNX Runtime)
+- **Model Monitoring**: Drift detection (data drift, concept drift, model performance drift); monitoring tools (Evidently AI, Arize, WhyLabs); alerting; retraining pipelines
+- **Feature Stores**: Feast, Tecton, Hopsworks; feature validation; online vs offline storage; point-in-time correctness
+- **CI/CD for ML**: Automated testing; model quality gates; infrastructure as code; canary deployments
 
 ### Statistical Foundations
 - **Exploratory Data Analysis**: Distributions, correlations, outliers; visualization as first step
@@ -35,12 +52,24 @@ Data science combines statistics, computer science, and domain expertise to extr
 - **Time Series Analysis**: Trend, seasonality, stationarity; ARIMA, Prophet, neural approaches
 - **Causal Inference**: Observational vs experimental; difference-in-differences, instrumental variables, propensity scores
 
-### Machine Learning
-- **Supervised Learning**: Classification (random forest, gradient boosting, neural networks), regression
-- **Unsupervised Learning**: Clustering (k-means, DBSCAN), dimensionality reduction (PCA, t-SNE, UMAP)
-- **Feature Engineering**: Domain-informed feature creation; encoding categoricals; handling imbalanced data
-- **Model Evaluation**: Accuracy, precision, recall, F1, AUC-ROC; confusion matrices; cross-validation
-- **MLOps**: Model versioning, deployment, monitoring, retraining; experiment tracking (MLflow, W&B)
+### Machine Learning (Advanced)
+- **Supervised Learning**: 
+  - **Tree-Based Models**: Random forest, gradient boosting (XGBoost, LightGBM, CatBoost), stacking/ensemble methods
+  - **Linear Models**: Linear regression, logistic regression, regularized variants (Lasso, Ridge, Elastic Net)
+  - **Neural Networks**: Feedforward networks, CNNs (computer vision), RNNs/LSTMs/Transformers (sequence data); attention mechanisms
+  - **Support Vector Machines**: Kernel trick; SVM for classification and regression
+- **Unsupervised Learning**: 
+  - **Clustering**: k-means, DBSCAN, HDBSCAN, hierarchical clustering, Gaussian Mixture Models
+  - **Dimensionality Reduction**: PCA, t-SNE, UMAP, autoencoders, TSNE variants
+  - **Anomaly Detection**: Isolation Forest, Autoencoder-based, One-Class SVM, DBSCAN outliers
+- **Reinforcement Learning**: Q-learning, Deep Q-Networks (DQN), Policy Gradients, Actor-Critic, PPO (Proximal Policy Optimization)
+- **Deep Learning Specializations**: 
+  - **Natural Language Processing**: BERT, GPT, T5; text classification, NER, question answering, summarization
+  - **Computer Vision**: ResNet, EfficientNet, YOLO (object detection), Stable Diffusion (generative)
+  - **Time Series**: Transformers (Temporal Fusion Transformer, TimeNet), LSTM/GRU, Prophet, ARIMA variants
+- **Feature Engineering**: Domain-informed feature creation; encoding categoricals (one-hot, target encoding, embeddings); handling imbalanced data (SMOTE, ADASYN); feature selection (mutual information, ANOVA, L1 regularization)
+- **Model Evaluation**: Accuracy, precision, recall, F1, AUC-ROC, AUC-PR; confusion matrices; cross-validation (k-fold, stratified, time-series); calibration curves; lift charts
+- **Hyperparameter Optimization**: Grid search, random search, Bayesian optimization (Optuna, Hyperopt); automated ML (AutoML tools)
 
 ### Big Data Technologies
 - **Distributed Computing**: Spark, Dask, Ray; parallel processing across clusters
@@ -77,6 +106,12 @@ Data science combines statistics, computer science, and domain expertise to extr
 | Bias-Variance Tradeoff | Model complexity trades off between underfitting and overfitting |
 | CAP Theorem | Distributed systems: pick 2 of consistency, availability, partition tolerance |
 | CRISP-DM | Cross-Industry Standard Process for Data Mining; standard workflow |
+| PAC Learning | Probably Approximately Correct learning framework; sample complexity bounds |
+| Occam's Razor | Simpler models are preferred when they fit the data equally well |
+| Curse of Dimensionality | High-dimensional data becomes sparse; distance metrics lose discriminative power |
+| Universal Approximation Theorem | Neural networks with one hidden layer can approximate any continuous function |
+| Ensemble Learning | Combining multiple models improves prediction accuracy (wisdom of crowds) |
+| Representer Theorem | Solutions to kernel methods can be expressed as linear combinations of training examples |
 
 ## Important Figures
 
