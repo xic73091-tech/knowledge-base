@@ -4,12 +4,12 @@ subdomain: cultural-studies
 title: "Cultural Studies"
 description: "The critical study of culture, power, and meaning in contemporary society"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [culture, media, identity, power, ideology, representation, postmodernism, globalization]
+updated: 2026-06-02
+tags: [culture, media, identity, power, ideology, representation, postmodernism, globalization, semiotics, postcolonial, digital-culture]
 prerequisites: [social-sciences/sociology]
 related: [humanities/philosophy, social-sciences/anthropology, social-sciences/communication]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Cultural Studies
@@ -61,6 +61,50 @@ Cultural studies is an interdisciplinary field that examines how cultural practi
 - **Universalism vs Relativism**: Are human rights and values universal or culturally specific?
 - **Postmodernism**: End of grand narratives; pastiche; simulacra (Baudrillard, Lyotard)
 
+### Media & Cultural Studies in Depth
+- **Semiotics & Signification**: Signifier/signified (Saussure), denotation/connotation, myth (Barthes), polysemy
+- **Textual Analysis**: Close reading of films, ads, TV shows, video games for ideological content
+- **Audience Studies**: Encoding/decoding (Hall), active audiences, fandom, fan fiction, participatory culture
+- **Cultural Industries**: Cultural production, political economy of media, conglomeration, streaming platforms
+- **Visual Culture**: Images, photography, film, art history, visual rhetoric, visual literacy
+
+### Identity Politics
+- **Critical Race Theory**: Critical examination of race and racism in law, society, and culture; intersectionality
+- **Feminist Cultural Studies**: Representation of gender, feminist film theory, masculinity studies, queer theory
+- **Queer Theory**: Butler (performativity), Sedgwick, challenging heteronormativity, LGBTQ+ representation
+- **Postcolonial Theory**: Said (Orientalism), Spivak (subaltern), Bhabha (hybridity, third space)
+- **Disability Studies**: Crip theory, representation of disability, ableism, accessibility
+- **Class & Cultural Capital**: Bourdieu (habitus, field, capital), cultural taste, distinction
+
+### Digital & Social Media Cultures
+- **Platform Studies**: Algorithms, recommendation systems, platform capitalism, data labor
+- **Social Media & Identity**: Self-presentation, online communities, influencer culture, cancel culture
+- **Memes & Virality**: Internet memes as cultural artifacts, virality dynamics, participatory culture
+- **Digital Surveillance & Privacy**: Surveillance capitalism, dataveillance, facial recognition, privacy rights
+- **Virtual & Augmented Reality**: Metaverse, digital embodiment, virtual identities, digital spaces
+- **Gaming & Gamification**: Video game cultures, esports, gamification of everyday life, game studies
+
+### Cultural Policy & Institutions
+- **Cultural Policy**: Government funding for arts, UNESCO, cultural heritage, creative industries
+- **Museums & Galleries**: Curatorial practices, representation, decolonizing museums, repatriation
+- **Education & Pedagogy**: Critical pedagogy (Freire), multicultural education, media literacy
+- **Intellectual Property**: Copyright, piracy, fair use, creative commons, digital rights management
+- **Cultural Diplomacy**: Soft power, cultural exchange, nation branding, international festivals
+
+### Cultural Production & Consumption
+- **Creative Industries**: Design, fashion, film, music, publishing, advertising, gaming
+- **Cultural Consumption**: Taste, distinction, lifestyle, subcultures, countercultures
+- **Material Culture**: Objects, artifacts, clothing, technology, their cultural meanings
+- **Festivals & Rituals**: Cultural events, ceremonies, holidays, religious practices, secular rituals
+- **Food Culture**: Cuisine as cultural expression, food identity, globalization of food, culinary tourism
+
+### Postcolonial & Decolonial Studies
+- **Orientalism**: Said's critique of Western representations of "the East"; colonial discourse
+- **Decolonizing Knowledge**: Challenging Western epistemic dominance, indigenous knowledge systems
+- **Hybridity & Third Space**: Bhabha's concept of in-between spaces of cultural mixing
+- **Neoliberalism & Culture**: Marketization, commodification, creative cities, gentrification
+- **Globalization & Glocalization**: Global flows, local adaptation, cultural homogenization vs diversity
+
 ## Key Theories
 
 | Theory | Key Figure | Core Idea |
@@ -70,6 +114,10 @@ Cultural studies is an interdisciplinary field that examines how cultural practi
 | Performativity | Judith Butler | Gender (and identity broadly) is enacted, not innate |
 | The Society of the Spectacle | Guy Debord | Modern life is mediated through images and representations |
 | Orientalism | Edward Said | Western knowledge of the East is shaped by power and fantasy |
+| Cultural Materialism | Raymond Williams | Culture as ordinary; material conditions shape cultural production |
+| Distinction/Cultural Capital | Pierre Bourdieu | Cultural taste reproduces social class inequality |
+| Third Space/Hybridity | Homi Bhabha | In-between cultural spaces of mixing and negotiation |
+| Panopticism | Michel Foucault | Surveillance as a mechanism of social control |
 
 ## Important Figures
 

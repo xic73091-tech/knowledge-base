@@ -4,12 +4,12 @@ subdomain: robotics
 title: "Robotics & Mechatronics"
 description: "The interdisciplinary field of designing, building, and operating intelligent machines"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [robots, automation, sensors, actuators, control, AI, mechatronics, manipulation]
+updated: 2026-06-02
+tags: [robots, automation, sensors, actuators, control, AI, mechatronics, manipulation, computer-vision, motion-planning, machine-learning]
 prerequisites: [engineering-technology/mechanical-engineering, engineering-technology/electrical-engineering]
 related: [engineering-technology/computer-science, engineering-technology/biomedical-engineering, natural-sciences/neuroscience]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Robotics & Mechatronics
@@ -71,10 +71,66 @@ Robotics is the interdisciplinary field concerned with designing, constructing, 
 
 ### Mechatronics Integration
 - **System Architecture**: Mechanical structure + actuators + sensors + controllers + software
-- **Embedded Systems**: Microcontrollers (Arduino, STM32), real-time operating systems
-- **Communication Protocols**: CAN bus, EtherCAT, ROS (Robot Operating System)
-- **Rapid Prototyping**: 3D printing, laser cutting; iterative design-build-test cycles
-- **Reliability Engineering**: Fault detection, redundancy, graceful degradation
+- **Embedded Systems**: Microcontrollers (Arduino, STM32, ESP32), FPGAs, real-time operating systems
+- **Communication Protocols**: CAN bus, EtherCAT, Modbus, Ethernet/IP, ROS1/ROS2, MQTT
+- **Rapid Prototyping**: 3D printing (FDM, SLA, SLM), laser cutting, CNC machining; iterative design-build-test cycles
+- **Reliability Engineering**: Fault detection, isolation, and recovery (FDIR); redundancy; graceful degradation; MTBF/MTTR
+
+### Specialized Robot Types
+- **Industrial Robots**: Articulated (6+ axes), SCARA, delta, cartesian/gantry; welding, painting, assembly
+- **Mobile Robots**: AGVs (Automated Guided Vehicles), AMRs (Autonomous Mobile Robots), drones, underwater (AUV/ROV)
+- **Humanoid Robots**: Bipedal locomotion, human-like manipulation, social interaction; Boston Dynamics Atlas, Honda ASIMO
+- **Soft Robots**: Pneumatic artificial muscles, dielectric elastomers, fluidic elastomer actuators; compliant, adaptable
+- **Medical Robots**: Surgical robots (da Vinci), rehabilitation robots, prosthetics, drug delivery, teleoperation
+- **Agricultural Robots**: Autonomous tractors, harvesting, weeding, crop monitoring, precision agriculture
+- **Military & Defense**: UAVs, UGVs, EOD (Explosive Ordnance Disposal), reconnaissance, surveillance
+
+### Robot Perception in Depth
+- **Computer Vision for Robots**: Object detection (YOLO, Faster R-CNN), segmentation (Mask R-CNN), 6D pose estimation
+- **3D Sensing**: LiDAR, stereo cameras, RGB-D (Kinect, RealSense), structured light, time-of-flight
+- **State Estimation**: Kalman Filter, Extended Kalman Filter (EKF), Unscented Kalman Filter (UKF), Particle Filter
+- **Visual SLAM**: Monocular, stereo, RGB-D; ORB-SLAM, Cartographer, Kimera; loop closure detection
+- **Sensor Calibration**: Camera intrinsics/extrinsics, LiDAR-camera calibration, robot-camera calibration, hand-eye calibration
+- **Tactile Sensing**: Skin-like sensors, force-torque sensors, tactile arrays; grasp stabilization, slip detection
+
+### Advanced Robot Control
+- **Linear Control**: PID, LQR (Linear Quadratic Regulator), pole placement, state space
+- **Nonlinear Control**: Feedback linearization, sliding mode control, backstepping, Lyapunov-based design
+- **Adaptive Control**: Model Reference Adaptive Control (MRAC), adaptive robust control, parameter estimation
+- **Impedance/Admittance Control**: Force-torque based, interaction control, human-robot collaboration
+- **Model Predictive Control (MPC)**: Optimal control with constraints, receding horizon, linear/nonlinear MPC
+- **Robust Control**: H-infinity, mu-synthesis; handling model uncertainty and disturbances
+
+### Robot Manipulation
+- **Grasping & Manipulation**: Grasp quality metrics (form closure, force closure), grasp planning, grasp synthesis
+- **End Effectors**: Parallel jaw, vacuum, magnetic, soft, dexterous multi-finger hands (Shadow Hand, Barrett Hand)
+- **Motion Planning for Manipulation**: Inverse kinematics, collision checking, trajectory optimization, RRT-Connect
+- **Contact-Rich Tasks**: Peg-in-hole, assembly, cutting, writing; force control and tactile feedback
+- **Dexterous Manipulation**: In-hand manipulation, regrasping, rolling, sliding; underactuated hands
+- **Telemanipulation**: Master-slave systems, haptic feedback, scaling, rate control, position/force control
+
+### Robot Learning in Depth
+- **Imitation Learning**: Behavioral cloning, DAgger (Dataset Aggregation), inverse reinforcement learning
+- **Reinforcement Learning**: Policy gradients (PPO, TRPO), Q-learning (DQN, Rainbow), actor-critic (SAC, TD3)
+- **Sim-to-Real Transfer**: Domain randomization, domain adaptation, sim-to-real gap, reality gap
+- **Meta-Learning**: Few-shot learning, learning-to-learn (MAML), rapid adaptation to new tasks
+- **Foundation Models for Robotics**: Vision-Language-Action (VLA) models, RT-1/2, RoboCat, general purpose policies
+- **Safety in RL**: Constrained RL, shielded RL, safe exploration, risk-aware reinforcement learning
+
+### Robot Safety & Ethics
+- **Functional Safety**: ISO 13849, IEC 61508, risk assessment, performance levels, safety functions
+- **Collaborative Robots**: ISO/TS 15066, force/torque limiting, power/force limiting, speed and separation monitoring
+- **Robot Ethics**: Moral agency, responsibility, transparency, accountability, lethal autonomous weapons
+- **Human-Robot Interaction Safety**: Design principles, risk mitigation, emergency stop, safety zones
+- **Privacy**: Human tracking, data collection, data security, privacy-preserving human-robot interaction
+- **Regulation**: Robotics regulations, certification, standards bodies, ethical guidelines
+
+### Robot Simulation
+- **Physics Engines**: Bullet, ODE, MuJoCo, PhysX, Drake; rigid body dynamics, soft body simulation
+- **Simulation Environments**: Gazebo, Unity, PyBullet, Isaac Sim, Webots; realistic rendering, sensor simulation
+- **Digital Twins**: Virtual robot replicas, remote monitoring, predictive maintenance, simulation-to-real transfer
+- **Benchmark Environments**: OpenAI Gym, Robosuite, MetaWorld, ManiSkill; standardized task suites
+- **Benchmarking Tools**: MoveIt, OpenRAVE, Klampt, ROS Navigation; motion planning and control libraries
 
 ## Key Theories
 
@@ -84,6 +140,11 @@ Robotics is the interdisciplinary field concerned with designing, constructing, 
 | SLAM Probabilistic Framework | Simultaneous estimation of robot pose and map using Bayesian methods |
 | Behavior-Based Robotics | Brooks; intelligence emerges from simple reactive behaviors, not explicit planning |
 | Optimal Control | Finding control inputs that minimize a cost function subject to dynamics constraints |
+| Denavit-Hartenberg Parameters | Standard method for describing manipulator kinematics |
+| Kalman Filter | Recursive Bayesian state estimation for linear systems with Gaussian noise |
+| Rapidly-exploring Random Trees (RRT) | Probabilistically complete motion planning algorithm for high-dimensional spaces |
+| Form/Fore Closure | Grasp stability criteria based on contact points and forces |
+| Hybrid Control | Combining position and force control for interaction with the environment |
 
 ## Important Figures
 

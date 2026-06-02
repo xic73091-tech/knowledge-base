@@ -4,12 +4,12 @@ subdomain: cognitive-science
 title: "Cognitive Science"
 description: "The interdisciplinary study of mind, intelligence, and cognition"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [cognition, mind, intelligence, perception, language, reasoning, consciousness, computation]
+updated: 2026-06-02
+tags: [cognition, mind, intelligence, perception, language, reasoning, consciousness, computation, development, social, neurocognition, disorders]
 prerequisites: [social-sciences/psychology, natural-sciences/biology]
 related: [natural-sciences/neuroscience, engineering-technology/computer-science, humanities/linguistics]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Cognitive Science
@@ -74,6 +74,64 @@ Cognitive science is the interdisciplinary study of the mind and its processes �
 - **SOAR**: State, Operator And Result; general problem-solving architecture (Laird, Newell, Rosenbloom)
 - **Global Workspace Theory**: Consciousness as global broadcast across specialized modules (Baars)
 - **Dual-Process Theory**: System 1 (fast, intuitive) vs System 2 (slow, deliberative) (Kahneman)
+- **4E Cognition**: Embodied, Embedded, Extended, Enactive — cognition extends beyond the brain
+- **Predictive Processing Framework**: Hierarchical prediction error minimization; free energy principle
+
+### Developmental Cognitive Science
+- **Piaget's Stages**: Sensorimotor, Preoperational, Concrete Operational, Formal Operational
+- **Core Knowledge**: Innate knowledge systems (objects, agents, number, geometry) — Spelke & Carey
+- **Vygotsky**: Zone of proximal development; scaffolding; cultural tools in cognition
+- **Language Development**: Phonology, morphology, syntax, semantics, pragmatics; critical periods
+- **Theory of Mind**: Understanding others' beliefs, desires, intentions; false-belief task (Sally-Anne)
+- **Cognitive Control Development**: Prefrontal cortex maturation; working memory, inhibition, switching
+
+### Social Cognition
+- **Mentalizing/ToM**: Theory of Mind; attribution of mental states to others and oneself
+- **Mirror Neurons**: Activation during both action execution and observation; empathy and imitation
+- **Social Categorization**: In-group/out-group bias; stereotyping; essentialism
+- **Facial Recognition**: Fusiform Face Area (FFA); prosopagnosia; own-race bias
+- **Attribution Theory**: Dispositional vs situational explanations; fundamental attribution error
+- **Emotion Recognition**: Ekman's basic emotions; recognizing emotion from faces, voices, postures
+
+### Computational Neuroscience & AI
+- **Neural Coding**: Rate coding, temporal coding, population coding, sparse coding
+- **Connectionist Networks**: Feedforward, recurrent, convolutional, transformer architectures
+- **Deep Learning**: Backpropagation; gradient descent; unsupervised pretraining; fine-tuning
+- **Reinforcement Learning**: Reward prediction error; Q-learning; policy gradients; actor-critic
+- **Symbolic vs Statistical**: Rule-based systems vs probabilistic models; hybrid approaches
+- **Artificial General Intelligence**: Transfer learning; generalization; common-sense reasoning
+
+### Neurocognition
+- **Brain Regions**: Broca's (production), Wernicke's (comprehension), hippocampus (memory), PFC (control), FFA (faces), V1-V5 (vision)
+- **Neural Oscillations**: Delta, theta, alpha, beta, gamma bands; synchronization; binding problem
+- **Plasticity**: Experience-dependent; developmental; adult; Hebbian learning; STDP
+- **Neuropsychology**: Aphasias, amnesias, agnosias, apraxias — revealing cognitive localization
+- **Connectomics**: Structural and functional brain connectivity; network science applied to the brain
+- **Cognitive Neuroimaging**: fMRI, EEG, MEG, PET, TMS — correlating activity with cognitive processes
+
+### Cognitive Disorders
+- **Dementia**: Alzheimer's (amyloid plaques, tau tangles), vascular, frontotemporal; episodic memory loss
+- **Attention Deficit Hyperactivity Disorder (ADHD)**: Inattention, hyperactivity, impulsivity; executive dysfunction
+- **Autism Spectrum Disorder**: Social communication deficits, repetitive behaviors; atypical sensory processing
+- **Schizophrenia**: Hallucinations, delusions, disorganized thinking; dopamine hypothesis; cognitive control deficits
+- **Aphasias**: Expressive (Broca's), receptive (Wernicke's), conduction aphasia; language breakdown
+- **Amnesias**: Anterograde (can't form new memories), retrograde (can't retrieve old memories); hippocampus
+
+### Applied Cognitive Science
+- **Cognitive Load Theory**: Intrinsic, extraneous, germane load; implications for instructional design
+- **Human Factors / Usability**: Human-computer interaction; user-centered design; error prevention
+- **Cognitive Enhancement**: Pharmacological (modafinil, stimulants), technological (BCI), educational
+- **Cognitive Training**: Working memory, attention, reasoning; near vs far transfer effects
+- **Eyewitness Testimony**: Memory fallibility; misinformation effect; weapon focus; lineup procedures
+- **Cognitive Neuroscience for Legal**: Assessing competence; lie detection; understanding responsibility
+
+### Cognitive Science Methods
+- **Behavioral Experiments**: Reaction time, accuracy, eye-tracking, mouse-tracking
+- **Neuroimaging**: fMRI (BOLD), EEG/MEG (electrophysiology), PET (metabolism)
+- **Computational Modeling**: Implementing theories as computer simulations; model comparison
+- **Animal Models**: Non-human primates, rodents; understanding neural mechanisms of cognition
+- **Developmental Methods**: Habituation-dishabituation, preferential looking, violation of expectation
+- **Clinical Studies**: Neuropsychological assessment, case studies, randomized controlled trials
 
 ## Key Theories
 
@@ -84,6 +142,11 @@ Cognitive science is the interdisciplinary study of the mind and its processes �
 | Embodied Cognition | Varela, Thompson | Cognition depends on having a body embedded in an environment |
 | Dual-Process Theory | Kahneman | Two systems: fast/intuitive and slow/deliberate |
 | Predictive Processing | Clark, Friston | Brain minimizes prediction error; perception is inference |
+| Core Knowledge Theory | Spelke, Carey | Infants possess innate knowledge systems for objects, numbers, agents, geometry |
+| Global Workspace Theory | Baars | Consciousness arises from information broadcast across brain regions |
+| ACT-R | Anderson | Production-system architecture of cognition |
+| Theory of Theory | Gopnik | Concepts are like mini-theories about the world |
+| 4E Cognition | Varela, Clark | Cognition is Embodied, Embedded, Extended, Enactive |
 
 ## Important Figures
 

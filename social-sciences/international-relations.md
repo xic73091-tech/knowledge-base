@@ -4,12 +4,12 @@ subdomain: international-relations
 title: "International Relations"
 description: "The study of interactions between states, organizations, and peoples across borders"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [diplomacy, war, peace, globalization, sovereignty, international law, foreign policy, security]
+updated: 2026-06-02
+tags: [diplomacy, war, peace, globalization, sovereignty, international law, foreign policy, security, global-governance, international-political-economy]
 prerequisites: [social-sciences/political-science]
 related: [social-sciences/economics, social-sciences/law, social-sciences/sociology]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # International Relations
@@ -67,10 +67,54 @@ International relations (IR) is the study of interactions between sovereign stat
 - **Law of Armed Conflict**: Geneva Conventions; proportionality, distinction, military necessity
 
 ### Foreign Policy Analysis
-- **Decision-Making Models**: Rational actor, bureaucratic politics (Allison), groupthink (Janis)
-- **Diplomacy**: Negotiation, summitry, public diplomacy, track-two diplomacy
-- **Intelligence**: Collection, analysis, covert action; failures and reforms
-- **Domestic Sources**: Public opinion, interest groups, political institutions, leader psychology
+- **Decision-Making Models**: Rational actor, bureaucratic politics (Allison), groupthink (Janis), prospect theory
+- **Diplomacy**: Negotiation, summitry, public diplomacy, track-two diplomacy, digital diplomacy
+- **Intelligence**: Collection (HUMINT, SIGINT, OSINT), analysis, covert action; failures and reforms
+- **Domestic Sources**: Public opinion, interest groups, political institutions, leader psychology, diversionary war
+
+### International Security
+- **Traditional Security**: Deterrence, extended deterrence, mutual assured destruction (MAD), arms control
+- **Non-Traditional Security**: Climate change, pandemics, transnational crime, cyber security, energy security
+- **Terrorism & Counter-Terrorism**: Definitions, root causes, counter-insurgency, counter-terrorism policies
+- **Civil War & Ethnic Conflict**: Causes (grievance vs greed), duration, termination, peacekeeping, genocide
+- **Nuclear Proliferation**: NPT, proliferation dynamics, rogue states, nuclear safety, disarmament
+- **Cybersecurity**: State-sponsored hacking, cyber warfare, data privacy, international norms in cyberspace
+
+### Global Governance
+- **International Organizations**: UN (GA, SC, ECOSOC, ICJ), World Bank, IMF, WTO, WHO, UNESCO, ILO
+- **Regional Organizations**: EU, ASEAN, AU, MERCOSUR, OAS, NATO (collective defense)
+- **Global Regimes**: Environmental (UNFCCC, Paris Agreement), trade (WTO), human rights (UDHR, ICCPR), nuclear non-proliferation (NPT)
+- **Globalization & Interdependence**: Complex interdependence, global supply chains, global finance, transnational social movements
+- **Humanitarian Intervention & Responsibility to Protect (R2P)**: Norm development, case studies (Kosovo, Libya, Rwanda), challenges
+
+### International Law in Depth
+- **Sources of International Law**: Treaties, custom, general principles, judicial decisions, scholarly writings
+- **Treaty Law**: Vienna Convention on the Law of Treaties (VCLT), ratification, reservations, interpretation
+- **State Responsibility**: Internationally wrongful acts, reparation, countermeasures, state immunity
+- **Human Rights Law**: Universal Declaration of Human Rights (UDHR), Covenants (ICCPR, ICESCR), treaty bodies, regional human rights courts (ECHR, ACHR)
+- **International Criminal Law**: International Criminal Court (ICC), ad hoc tribunals (ICTY, ICTR), war crimes, crimes against humanity, genocide, aggression
+- **Use of Force**: UN Charter Article 2(4), self-defense (Article 51), humanitarian intervention, R2P
+
+### International Political Economy (IPE)
+- **Trade**: Comparative advantage, Heckscher-Ohlin, protectionism (tariffs, quotas), free trade agreements (FTAs), WTO
+- **Finance**: Exchange rates, balance of payments, international financial crises, IMF conditionality, capital controls
+- **Development**: Modernization theory, dependency theory, world-systems theory, foreign aid, debt relief, SDGs
+- **Multinational Corporations (MNCs)**: FDI, global value chains, corporate social responsibility, tax havens
+- **Globalization Contested**: Anti-globalization movements, populism, economic nationalism, inequality
+
+### Contemporary Global Issues
+- **Climate Change**: Paris Agreement, mitigation vs adaptation, climate justice, carbon markets, tipping points
+- **Global Health**: Pandemics (COVID-19), WHO, vaccine equity, health security, antimicrobial resistance
+- **Migration**: Refugees, forced displacement, asylum, migrant rights, brain drain/brain gain
+- **Technology & Globalization**: Big Tech, AI, cyber governance, data sovereignty, digital divide, social media and politics
+- **Inequality**: Global income/wealth inequality, gender inequality, racial justice, intergenerational equity
+
+### IR Research Methods
+- **Qualitative Methods**: Case studies, process tracing, archival research, interviews, ethnography
+- **Quantitative Methods**: Statistics, game theory, formal models, network analysis, large-N datasets
+- **Formal Methods**: Game theory, rational choice, bargaining theory, signal models
+- **Historical Methods**: Historical sociology, historiography, comparative historical analysis
+- **Critical Methods**: Postcolonial IR, feminist IR, Marxist IR, poststructuralist IR
 
 ## Key Theories
 
@@ -81,6 +125,11 @@ International relations (IR) is the study of interactions between sovereign stat
 | Constructivism | Alexander Wendt | Ideas and identities, not just material power, shape politics |
 | Complex Interdependence | Keohane & Nye | Multiple channels of contact; military force less central |
 | World Systems Theory | Immanuel Wallerstein | Global capitalism creates core, periphery, semi-periphery |
+| Offensive Realism | John Mearsheimer | Great powers maximize power and seek hegemony |
+| Liberal Institutionalism | Robert Keohane | International institutions facilitate cooperation |
+| Feminist IR | Cynthia Enloe | Gender shapes and is shaped by global politics |
+| Hegemonic Stability Theory | Kindleberger, Gilpin | A dominant power stabilizes the international system |
+| Balance of Power Theory | Morgenthau, Waltz | States counterbalance powerful states to preserve security |
 
 ## Important Figures
 

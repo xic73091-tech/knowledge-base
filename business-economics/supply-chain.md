@@ -4,12 +4,12 @@ subdomain: supply-chain
 title: "Supply Chain & Logistics"
 description: "The management of goods, information, and finances from origin to consumption"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [logistics, procurement, inventory, warehousing, distribution, transportation, operations]
+updated: 2026-06-02
+tags: [logistics, procurement, inventory, warehousing, distribution, transportation, operations, sustainability, digital-supply-chain, risk-management]
 prerequisites: [business-economics/operations]
 related: [business-economics/operations, business-economics/management, engineering-technology/computer-science]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Supply Chain & Logistics
@@ -72,11 +72,60 @@ Supply chain management (SCM) is the coordination of all activities involved in 
 
 ### Technology & Digital Supply Chain
 - **ERP Systems**: SAP, Oracle; integrated planning and execution
-- **IoT & Sensors**: Real-time tracking of goods, equipment, and environmental conditions
-- **Blockchain**: Supply chain transparency; provenance verification; smart contracts
+- **IoT & Sensors**: Real-time tracking of goods, equipment, and environmental conditions; telematics
+- **Blockchain**: Supply chain transparency; provenance verification; smart contracts; cross-border payments
 - **AI & Machine Learning**: Demand forecasting, route optimization, anomaly detection, autonomous vehicles
-- **Digital Twins**: Virtual replicas of supply chain for simulation and optimization
+- **Digital Twins**: Virtual replicas of supply chain for simulation and optimization; predictive analytics
 - **Control Towers**: Centralized visibility and decision-making across the supply chain
+- **Cloud Computing**: SaaS supply chain platforms; scalability; data sharing and collaboration
+
+### Supply Chain Analytics
+- **Descriptive Analytics**: What happened? KPIs, dashboards, reporting
+- **Predictive Analytics**: What will happen? Machine learning, forecasting models
+- **Prescriptive Analytics**: What should we do? Optimization, simulation, recommendations
+- **Network Optimization**: Facility location, flow optimization, trade-off analysis
+- **Simulation & Modeling: Discrete-event simulation, Monte Carlo, what-if scenarios
+
+### Logistics & Distribution in Depth
+- **Transportation Modes: Road, rail, ocean, air, pipeline; modal comparison and trade-offs
+- **Last-Mile Delivery: Drone delivery, autonomous vehicles, locker networks, crowdsourced delivery
+- **Warehouse Operations: Picking methods (batch, wave, zone, pick-to-light), putaway, cycle counting
+- **Cross-Docking: Direct transfer of goods without storage; retail and manufacturing applications
+- **3PL/4PL: Third-party logistics providers; 4PL as supply chain integrators and orchestrators
+
+### Sourcing & Procurement Strategies
+- **Strategic Sourcing: Category management, supplier segmentation, total cost of ownership (TCO)
+- **Supplier Relationship Management (SRM): Supplier development, performance management, risk sharing
+- **Make vs Buy: Core vs non-core activities; outsourcing vs insourcing; vertical integration
+- **Global Sourcing: Offshoring, nearshoring, onshoring/reshoring; cost, risk, and lead time trade-offs
+- **Procurement Technology: E-sourcing, e-auctions, procure-to-pay (P2P), spend management
+
+### Inventory Management Advanced
+- **Inventory Models: EOQ, safety stock (service level approach), (Q,R), periodic review
+- **ABC Analysis: Pareto principle for inventory classification
+- **Just-In-Time (JIT): Pull-based replenishment; Toyota Production System; waste elimination
+- **Lean Inventory: Waste reduction, flow, pull, continuous improvement
+- **VMI/CPFR: Vendor-managed inventory; collaborative planning, forecasting, and replenishment
+
+### Sustainability & Circular Supply Chains
+- **Sustainable Supply Chains: ESG (environmental, social, governance); scope 1/2/3 emissions; carbon accounting
+- **Circular Economy: Reduce, reuse, recycle; product life extension; reverse logistics
+- **Ethical Sourcing: Fair trade, conflict minerals, labor standards, due diligence
+- **Supply Chain Resilience vs Efficiency: Post-COVID trade-offs; risk-optimized supply chains
+- **Sustainable Logistics: Green transportation, low-emission warehouses, circular packaging
+
+### Supply Chain Finance
+- **Working Capital Management: Inventory, receivables, payables optimization; cash conversion cycle
+- **Supply Chain Finance (SCF): Reverse factoring, payables finance, receivables financing
+- **Dynamic Discounting: Early payment discounts; liquidity management
+- **Trade Finance: Letters of credit, export credit, factoring, supply chain risk insurance
+
+### Supply Chain Strategy & Design
+- **Network Design: Facility location, capacity planning, transportation optimization; optimization models
+- **Push vs Pull: Make-to-stock vs make-to-order vs configure-to-order vs engineer-to-order
+- **Lean & Six Sigma in Supply Chain: Waste reduction; DMAIC; defect reduction; continuous improvement
+- **Postponement: Delaying customization until late in the supply chain; mass customization
+- **Risk Management: Identification, assessment, mitigation; supply chain risk management (SCRM)
 
 ## Key Theories
 
@@ -86,6 +135,10 @@ Supply chain management (SCM) is the coordination of all activities involved in 
 | Lean Thinking (Womack & Jones) | Eliminate waste; continuous flow; pull-based production |
 | Fisher's Supply Chain Match | Functional products → efficient chains; innovative products → responsive chains |
 | Transaction Cost Economics | Make vs buy based on asset specificity, uncertainty, and frequency |
+| Bullwhip Effect (Lee, Padmanabhan, Whang) | Demand variability amplifies upstream; caused by forecasting, batching, rationing, and price fluctuations |
+| Resource-Based View (RBV) | Supply chain as source of competitive advantage through unique, valuable, inimitable resources |
+| Quick Response (QR) | Retail supply chain strategy to reduce lead times and inventory |
+| Efficient Consumer Response (ECR) | Demand-driven replenishment; collaborative planning and execution |
 
 ## Important Figures
 
