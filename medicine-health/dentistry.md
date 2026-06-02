@@ -4,12 +4,12 @@ subdomain: dentistry
 title: "Dentistry & Oral Health"
 description: "The branch of medicine concerned with the diagnosis, prevention, and treatment of oral diseases"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [teeth, oral health, dental, orthodontics, periodontics, prosthodontics, oral surgery]
+updated: 2026-06-02
+tags: [teeth, oral health, dental, orthodontics, periodontics, prosthodontics, oral surgery, dental-materials, digital-dentistry]
 prerequisites: [natural-sciences/biology]
 related: [medicine-health/clinical-medicine, medicine-health/pharmacology, engineering-technology/biomedical-engineering]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Dentistry & Oral Health
@@ -79,6 +79,105 @@ Dentistry is the branch of medicine focused on the diagnosis, prevention, and tr
 - **Early Childhood Caries**: Prevention, risk factors, treatment
 - **Developmental Anomalies**: Amelogenesis imperfecta, dentinogenesis imperfecta, ectodermal dysplasia
 
+### Dental Specialties in Depth
+- **Endodontics in Depth**: Microscopic endodontics, nickel-titanium rotary files, bioceramics, single-visit RCT
+- **Periodontics in Depth**: Periodontal plastic surgery, mucogingival therapy, regeneration, peri-implant diseases
+- **Prosthodontics in Depth**: Full-mouth rehabilitation, digital smile design, complex implant cases
+- **Oral Surgery in Depth**: Wisdom teeth complications, orthognathic surgery planning, distraction osteogenesis
+- **Orthodontics in Depth**: Temporary anchorage devices (TADs), clear aligner therapy (CAT), surgical orthodontics
+- **Oral Medicine**: Oral mucosal lesions, orofacial pain, temporomandibular disorders, oral manifestations of systemic disease
+- **Oral Pathology**: Benign and malignant tumors, cysts, precancerous lesions, oral cancer
+- **Oral Radiology**: CBCT (cone beam CT), digital imaging, radiation safety, image interpretation
+- **Dental Anesthesiology**: Local anesthesia, sedation, general anesthesia, pain control
+- **Public Health Dentistry**: Epidemiology, prevention programs, fluoridation, dental workforce planning
+
+### Dental Materials & Biomaterials
+- **Ceramics**: Lithium disilicate, zirconia, feldspathic porcelain; CAD/CAM materials
+- **Composites**: Resin-based, glass ionomer, compomers; polymerization, bonding
+- **Metals**: Amalgam, gold alloys, base metal alloys; titanium for implants
+- **Impression Materials**: Alginate, elastomers (PVS, polyether), digital intraoral scanning
+- **Bone Grafts**: Autografts, allografts, xenografts, synthetic grafts; guided bone regeneration (GBR)
+- **Membranes**: Resorbable and non-resorbable membranes for guided tissue regeneration (GTR)
+- **Biomaterials Science**: Surface modification, biocompatibility, osseointegration enhancement
+
+### Digital Dentistry in Depth
+- **CAD/CAM Systems**: Chairside (CEREC), inLab, laboratory-based; workflow
+- **Intraoral Scanners**: Optical (confocal, triangulation), accuracy, digital impression
+- **3D Printing**: Stereolithography (SLA), digital light processing (DLP), fused deposition modeling (FDM); surgical guides, models, aligners
+- **CBCT Imaging**: 3D imaging for diagnosis, treatment planning, surgical guides
+- **Digital Smile Design (DSD)**: Virtual treatment planning, smile simulation
+- **Artificial Intelligence**: Diagnostic assistance, treatment planning, image analysis
+- **Teledentistry**: Remote consultation, monitoring, access to care
+
+### Oral-Systemic Health Connections
+- **Cardiovascular Disease**: Periodontal-cardiovascular link; inflammation, atherosclerosis
+- **Diabetes**: Bidirectional relationship with periodontitis; glycemic control
+- **Pregnancy**: Periodontitis and adverse pregnancy outcomes (preterm birth, low birth weight)
+- **Respiratory Disease**: Pneumonia, COPD; aspiration of oral pathogens
+- **Alzheimer's Disease**: Possible link with periodontal pathogens; oral microbiome
+- **Autoimmune Diseases**: Sjögren's syndrome, lupus, pemphigoid
+- **HIV/AIDS**: Oral manifestations, opportunistic infections, dental management
+- **Cancer Therapy**: Oral complications of chemotherapy and radiation; supportive care
+
+### Preventive & Community Dentistry
+- **Caries Prevention**: Fluoride (systemic, topical), sealants, xylitol, dietary counseling
+- **Periodontal Prevention**: Mechanical plaque control, chemotherapeutics, host modulation
+- **Oral Health Education**: Behavior change, motivational interviewing, health literacy
+- **Fluoridation**: Community water fluoridation, salt fluoridation, milk fluoridation
+- **School-Based Programs**: Sealant programs, fluoride varnish, education
+- **Access to Care**: Dental insurance, Medicaid, community health centers, mobile dentistry
+- **Global Oral Health**: WHO oral health goals, FDI World Dental Federation, disparities
+
+### Orthodontics Advanced
+- **Clear Aligner Therapy (CAT)**: Invisalign, SureSmile; biomechanics, attachments
+- **Lingual Orthodontics**: Hidden braces; customized labial/lingual appliances
+- **Surgical Orthodontics**: Combined orthodontic-orthognathic approach; treatment sequence
+- **Temporary Anchorage Devices (TADs)**: Mini-screws, mini-plates; skeletal anchorage
+- **Accelerated Orthodontics**: Corticotomy, photobiomodulation, vibration; reducing treatment time
+- **Two-Phase Treatment**: Early intervention (Phase I) and comprehensive (Phase II)
+- **Adult Orthodontics**: Treatment considerations, multidisciplinary care
+
+### Endodontics Advanced
+- **Vital Pulp Therapy**: Pulp capping, partial pulpotomy; regenerative approaches
+- **Regenerative Endodontics**: Revascularization, stem cells, scaffolds; immature teeth
+- **Endodontic Microsurgery**: Operating microscope, ultrasonic tips, MTA/bioceramics
+- **Cone Beam CT in Endodontics**: Diagnosis of complex anatomy, resorption, fractures
+- **NiTi Rotary Instrumentation**: Heat-treated alloys, reciprocating motion, single-file systems
+- **Obturation Techniques**: Warm vertical compaction, single cone, carrier-based
+- **Endodontic Failures**: Causes, retreatment options, extraction vs. surgery
+
+### Implant Dentistry
+- **Implant Design**: Implant surface, thread design, macro/micro-geometry
+- **Surgical Protocols**: One-stage vs two-stage, immediate loading, flapless surgery
+- **Bone Augmentation**: Sinus lift, ridge augmentation, block grafts
+- **Guided Implant Surgery**: CBCT-based planning, surgical guides, navigation
+- **Implant Prosthodontics**: Single crowns, fixed partial dentures, overdentures, full-arch (All-on-4)
+- **Peri-Implant Diseases**: Peri-implant mucositis, peri-implantitis; treatment
+- **Complications**: Biological, mechanical, technical complications; management
+
+### Dental Practice Management
+- **Practice Models**: Solo, group, corporate, dental service organizations (DSOs)
+- **Financial Management**: Billing, insurance, coding (CDT codes), revenue cycle
+- **Marketing & Branding**: Online presence, patient reviews, social media
+- **Risk Management**: Malpractice, informed consent, record-keeping
+- **Ethics in Dentistry**: Autonomy, beneficence, non-maleficence, justice; scope of practice
+- **Dental Law**: Licensure, malpractice, HIPAA, OSHA, scope of practice
+- **Technology Adoption**: ROI analysis, integration, training, cybersecurity
+
+### Special Needs Dentistry
+- **Geriatric Dentistry**: Edentulism, dry mouth (xerostomia), root caries, denture care
+- **Disability Dentistry**: Physical, intellectual, developmental disabilities; behavior guidance
+- **Medically Complex Patients**: Cardiac, hematologic, immunocompromised; antibiotic prophylaxis
+- **Dental Phobia & Anxiety**: Behavioral techniques, sedation, psychology referral
+- **Pediatric Special Needs**: Autism spectrum, cerebral palsy, genetic syndromes
+
+### Forensic Odontology
+- **Identification**: Bite marks, dental records, post-mortem dental profiling
+- **Mass Disasters**: DVI (Disaster Victim Identification) protocols, INTERPOL guidelines
+- **Age Estimation**: Dental development, third molar mineralization
+- **Bite Mark Analysis**: Comparison methods, controversies, admissibility
+- **Forensic Anthropology**: Facial reconstruction, dental anthropology
+
 ## Key Theories
 
 | Theory | Description |
@@ -87,6 +186,10 @@ Dentistry is the branch of medicine focused on the diagnosis, prevention, and tr
 | Ecological Plaque Hypothesis | Changes in oral environment shift microbial balance toward disease |
 | Osseointegration | Direct structural bone-to-implant contact; foundation of dental implants |
 | Wolff's Law | Bone remodels in response to mechanical forces; basis for orthodontic tooth movement |
+| Acidogenic Theory of Caries | Fermentable carbohydrates produce acid, demineralizing enamel |
+| Specific Plaque Hypothesis | Specific bacteria (e.g., S. mutans) cause dental caries |
+| Host-Microbial Balance | Disease results from disruption of equilibrium between host and oral microbiome |
+| Bone-Bounded Distraction Osteogenesis | New bone formation between osteotomized bone segments gradually separated |
 
 ## Important Figures
 

@@ -4,12 +4,12 @@ subdomain: library-science
 title: "Library & Information Science"
 description: "The study of collecting, organizing, preserving, and providing access to information and knowledge"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [libraries, information, cataloging, archives, digital libraries, metadata, information retrieval]
+updated: 2026-06-02
+tags: [libraries, information, cataloging, archives, digital libraries, metadata, information retrieval, knowledge-organization, digital-preservation]
 prerequisites: []
 related: [engineering-technology/computer-science, humanities/linguistics, social-sciences/communication]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Library & Information Science
@@ -76,6 +76,70 @@ Library and information science (LIS) is the field concerned with the collection
 - **Diversity & Inclusion**: Representing diverse voices in collections; equitable access; decolonizing classification
 - **Digital Divide**: Ensuring access for underserved communities; broadband equity; digital literacy
 
+### Information Retrieval
+- **Search Models**: Boolean, vector space, probabilistic, language models; ranked retrieval
+- **Indexing & Query Processing**: Inverted index, tokenization, stemming, stopwords, TF-IDF
+- **Relevance & Ranking**: BM25, PageRank, learning-to-rank; click models
+- **Evaluation Metrics**: Precision, recall, F-measure, MAP, NDCG, user studies
+- **Web Search**: Crawling, indexing, ranking, query understanding, snippet generation
+- **Specialized Search**: Enterprise search, multimedia search (image, audio, video), geospatial search
+
+### Knowledge Organization in Depth
+- **Cataloging Standards**: RDA (Resource Description and Access), AACR2, MARC21, BIBFRAME
+- **Subject Headings**: LCSH, FAST, Sears; controlled vocabularies for subject access
+- **Classification Theory**: Analytico-synthetic, faceted, enumerative; Colon Classification, Bliss Classification
+- **Thesauri & Ontologies**: SKOS, OWL, domain ontologies (e.g., MeSH, AGROVOC)
+- **Metadata Standards**: Dublin Core, MODS, METS, PREMIS, EAD; interoperability
+- **Linked Open Data (LOD)**: RDF, SPARQL, Wikidata, BIBFRAME, schema.org; semantic web for libraries
+
+### Digital Preservation & Curation
+- **Preservation Strategies**: Migration, emulation, refreshing, encapsulation
+- **File Format Standards**: PDF/A, TIFF, JPEG2000, WAVE; format obsolescence risk
+- **Preservation Metadata**: PREMIS (Preservation Metadata: Implementation Strategies)
+- **Digital Preservation Systems**: LOCKSS, CLOCKSS, Internet Archive, HathiTrust, Portico
+- **Born-Digital Materials**: Email, web archives, social media, research data; authenticity challenges
+- **Long-Term Storage**: Tape archives, cloud storage, distributed storage; bit rot mitigation
+
+### User Experience & Information Architecture in Depth
+- **Service Design**: Service blueprints, touchpoints, user journeys; library as experience
+- **Discovery Systems**: Next-gen catalogs (Ex Libris Alma, OCLC WorldCat, EBSCO Discovery)
+- **Usability Testing**: Card sorting, tree testing, A/B testing, eye-tracking
+- **Web Accessibility (WCAG)**: Perceivable, operable, understandable, robust content
+- **Universal Design**: Designing for all users regardless of ability, age, or context
+- **Mobile & Responsive Design**: Mobile-first, progressive web apps, app development
+
+### Scholarly Communication & Open Science
+- **Open Access (OA)**: Gold, green, diamond OA; APCs, predatory publishing
+- **Repositories**: Institutional repositories, subject repositories (arXiv, SSRN, PubMed Central)
+- **Research Data Management**: FAIR principles, data management plans, data sharing
+- **Altmetrics & Research Impact**: Article-level metrics, social media metrics, citation tracking
+- **Open Educational Resources (OER)**: Open textbooks, course materials; Creative Commons
+- **Predatory Publishing & Quality Control**: Beall's List, retraction watch, peer review integrity
+
+### Data Librarianship & Data Services
+- **Data Literacy**: Statistical literacy, data evaluation, data ethics, data visualization
+- **Research Data Services**: Data management plans, data curation, data publication
+- **Data Curation**: Selection, appraisal, ingestion, transformation, preservation
+- **Data Repositories**: Domain-specific (GenBank, Protein Data Bank), general (Zenodo, Dryad, Figshare)
+- **Statistical & Data Software**: R, Python, SPSS, Stata; data analysis support
+- **GIS Services**: Spatial data, mapping, geospatial analysis
+
+### Cultural Heritage & Special Collections
+- **Rare Books & Manuscripts**: Provenance research, conservation, exhibition
+- **Digital Humanities**: Text mining, digital editions, computational analysis
+- **Oral History**: Interview methods, transcription, ethical considerations
+- **Community Archives**: Grassroots preservation, marginalized voices
+- **Cultural Heritage Digitization**: Standards (FADGI, METAMORPHOSE), 3D scanning, mass digitization
+- **Repatriation & Restitution**: Returning cultural objects to source communities
+
+### Library Management & Administration
+- **Strategic Planning**: Mission, vision, goals; environmental scanning; SWOT analysis
+- **Library Budgeting**: Operating budgets, capital budgets, grant funding, fundraising
+- **Human Resources in Libraries**: Staffing, professional development, paraprofessional roles
+- **Library Buildings & Spaces**: New library designs, learning commons, makerspaces
+- **Marketing & Advocacy**: Library promotion, community outreach, value proposition
+- **Partnerships & Consortia**: Library networks, shared print, cooperative collection development
+
 ## Key Theories
 
 | Theory | Description |
@@ -84,6 +148,10 @@ Library and information science (LIS) is the field concerned with the collection
 | Sense-Making (Dervin) | People construct meaning through gaps in their understanding; information bridges gaps |
 | Information Ground (Fisher) | Places where people share information unintentionally in the course of other activities |
 | Five Laws of Library Science (Ranganathan) | Books are for use; every reader their book; every book its reader; save time; library is growing organism |
+| Wilson's Model of Information Behavior | Information seeking as a response to information need in context |
+| Kuhlthau's Information Search Process | Stages of information seeking characterized by feelings, thoughts, and actions |
+| Faceted Classification | Organizing knowledge by multiple independent dimensions (Ranganathan) |
+| Probabilistic Information Retrieval | Ranking documents by probability of relevance to a query (Robertson, Sparck Jones) |
 
 ## Important Figures
 

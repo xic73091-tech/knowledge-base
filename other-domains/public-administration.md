@@ -4,12 +4,12 @@ subdomain: public-administration
 title: "Public Administration & Policy"
 description: "The study and practice of government management, policy analysis, and public service delivery"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [government, policy, bureaucracy, governance, public finance, implementation, evaluation]
+updated: 2026-06-02
+tags: [government, policy, bureaucracy, governance, public finance, implementation, evaluation, public-management, ethics, public-policy]
 prerequisites: [social-sciences/political-science]
 related: [social-sciences/political-science, social-sciences/economics, social-sciences/law]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Public Administration & Policy
@@ -75,6 +75,78 @@ Public administration is the implementation of government policy and the managem
 - **Community Engagement**: Participatory budgeting, citizen assemblies, deliberative democracy
 - **Social Equity**: The "third pillar" of public administration alongside efficiency and effectiveness
 
+### Policy Analysis Methods in Depth
+- **Cost-Benefit Analysis (CBA)**: Monetizing costs and benefits; discounting; sensitivity analysis
+- **Cost-Effectiveness Analysis (CEA)**: Comparing alternatives by cost per unit of outcome
+- **Regulatory Impact Analysis**: Assessing the effects of proposed regulations
+- **Stakeholder Analysis**: Identifying and assessing interests, influence, and positions
+- **Policy Diffusion**: How policies spread across jurisdictions; lesson-drawing, emulation, coercion
+- **Logic Models**: Inputs, activities, outputs, outcomes, impact; program theory
+- **Theory of Change**: Causal pathways from intervention to long-term impact
+- **Randomized Controlled Trials in Policy**: Field experiments; A/B testing in government
+- **Behavioral Insights**: Nudge theory, choice architecture, randomized field trials
+
+### Public Finance & Budgeting in Depth
+- **Public Revenue**: Tax policy design, tax administration, tax expenditures, public debt
+- **Budget Cycle**: Formulation, approval, execution, audit; performance budgeting
+- **Intergovernmental Fiscal Relations**: Grants, transfers, matching funds, mandates
+- **Public Financial Management**: Treasury management, accounting standards, fiscal transparency
+- **Public Investment Management**: Infrastructure investment, project appraisal, public-private partnerships
+- **Performance Budgeting**: Outcome-based budgeting, zero-based budgeting (ZBB)
+
+### Public Management & Leadership
+- **Strategic Planning in Government**: Vision, mission, goals, strategies; balanced scorecard
+- **Human Capital Management**: Civil service reform, workforce planning, performance management
+- **Digital Government Strategy**: E-government, open data, digital identity, smart city initiatives
+- **Risk Management**: Enterprise risk management (ERM), business continuity, cybersecurity
+- **Crisis Management**: Emergency preparedness, response coordination, lessons learned
+- **Public-Private Partnerships (PPPs)**: Infrastructure, service delivery, governance arrangements
+- **Network Governance**: Collaborative governance, multi-stakeholder platforms, public service ecosystems
+
+### Comparative Public Administration
+- **Administrative Traditions**: Anglo-American, Napoleonic, Germanic, Nordic, developing-country models
+- **Civil Service Systems**: Merit-based vs patronage; politicization; reforms
+- **Decentralization**: Devolution, delegation, deconcentration; federalism and local governance
+- **Administrative Reform**: New Public Management, post-NPM, digital-era governance
+- **Good Governance**: Transparency, accountability, participation, rule of law, effectiveness
+- **Corruption & Governance Quality**: Measurement (CPI, WGI), causes, anti-corruption strategies
+- **Capacity Building**: Institutional strengthening, training, technical assistance
+
+### Public Policy in Sectors
+- **Healthcare Policy**: Universal coverage, single-payer, multi-payer, public health systems
+- **Education Policy**: School choice, accountability, equity, funding mechanisms
+- **Environmental Policy**: Regulation, market-based instruments (cap-and-trade, carbon taxes), voluntary agreements
+- **Social Welfare Policy**: Safety nets, conditional cash transfers, social insurance
+- **Economic Policy**: Industrial policy, trade policy, monetary policy, fiscal policy
+- **Immigration Policy**: Border control, asylum, integration, regularization programs
+- **Criminal Justice Policy**: Policing, sentencing, corrections, rehabilitation
+- **Housing Policy**: Affordable housing, public housing, homelessness, zoning reform
+
+### Tools & Methods of Public Administration
+- **Performance Measurement**: KPIs, program evaluation, benchmarking
+- **Data Analytics in Government**: Predictive analytics, data-driven decision-making
+- **Geographic Information Systems (GIS)**: Spatial analysis for policy and service delivery
+- **Lean Government**: Process improvement, waste reduction in public services
+- **Citizen Engagement Tools**: Surveys, public consultations, citizen panels, e-participation
+- **Public Procurement**: Tendering, contracting, anti-corruption safeguards
+
+### Ethics, Integrity & Accountability
+- **Public Service Ethics**: Codes of conduct, conflict of interest, ethics training
+- **Anti-Corruption**: Detection, enforcement, prevention; institutional checks
+- **Whistleblower Protection**: Legal frameworks, organizational culture
+- **Transparency & Open Government**: Freedom of information, open data, proactive disclosure
+- **Auditing & Oversight**: Internal audit, external audit (Supreme Audit Institutions), legislative oversight
+- **Citizen Oversight**: Ombudsman, citizen complaint mechanisms, social audits
+- **Public Trust**: Drivers of trust, decline of trust, restoration strategies
+
+### Global & International Public Administration
+- **International Organizations**: UN system, World Bank, IMF, WTO, WHO — roles, governance, reform
+- **Multilateral Cooperation**: Treaties, conventions, international regimes
+- **Development Administration**: Foreign aid, technical assistance, capacity development
+- **Global Public Goods**: Climate, health, security, financial stability
+- **Transnational Policy**: Policy transfer, policy learning across countries
+- **Diplomacy & International Negotiation**: Multilateral negotiations, soft power
+
 ## Key Theories
 
 | Theory | Key Figure | Core Idea |
@@ -83,6 +155,12 @@ Public administration is the implementation of government policy and the managem
 | Incrementalism | Charles Lindblom | Policy change is small adjustments to the status quo ("muddling through") |
 | Multiple Streams | John Kingdon | Policy change when problem, policy, and politics streams converge (policy window) |
 | New Public Management | Osborne & Gaebler | Government should steer, not row; market mechanisms in public sector |
+| New Public Service | Denhardt & Denhardt | Serve citizens, not customers; democratic governance; collaborative networks |
+| Street-Level Bureaucracy | Michael Lipsky | Frontline workers as policy implementers with discretion |
+| Principal-Agent Theory | Ross, Jensen & Meckling | Delegation creates information asymmetries requiring monitoring |
+| Network Governance | Provan & Kenis | Public services delivered through multi-actor networks |
+| Polycentric Governance | Elinor Ostrom | Multiple overlapping jurisdictions and decision-making centers |
+| Punctuated Equilibrium | Baumgartner & Jones | Policy change is long periods of stability interrupted by dramatic shifts |
 
 ## Important Figures
 

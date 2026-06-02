@@ -4,12 +4,12 @@ subdomain: gender-studies
 title: "Gender & Sexuality Studies"
 description: "The interdisciplinary study of gender, sexuality, and their intersections with power and identity"
 created: 2026-05-15
-updated: 2026-05-15
-tags: [gender, sexuality, feminism, queer theory, patriarchy, intersectionality, identity, equality]
+updated: 2026-06-02
+tags: [gender, sexuality, feminism, queer theory, patriarchy, intersectionality, identity, equality, trans-studies, masculinities]
 prerequisites: []
 related: [social-sciences/sociology, humanities/philosophy, social-sciences/psychology]
-difficulty: introductory
-completeness: developing
+difficulty: intermediate
+completeness: comprehensive
 ---
 
 # Gender & Sexuality Studies
@@ -69,6 +69,84 @@ Gender and sexuality studies is an interdisciplinary field examining how gender 
 - **Music**: Riot grrrl, queer hip-hop, feminist punk; gender in pop culture
 - **Media Representation**: Bechdel test; stereotypes; trans visibility
 
+### Trans Studies
+- **Trans Identity**: Gender identity, gender dysphoria, transition, gender affirmation
+- **Medical Transition**: Hormone therapy, gender-affirming surgery, voice therapy
+- **Legal Recognition**: Self-identification laws, gender markers, name changes
+- **Trans History**: Magnus Hirschfeld, Compton's Cafeteria riot, trans activism
+- **Transfeminism**: Embodying both feminist and trans politics (Stryker, Halberstam)
+- **Non-Binary Identities**: Genderqueer, genderfluid, agender; expanding gender categories
+- **Trans Healthcare Access**: Disparities, informed consent models, global variations
+- **Cisnormativity**: Assumption that cisgender is the norm; institutional cissexism
+
+### Masculinities Studies
+- **Hegemonic Masculinity** (Connell): The dominant, culturally exalted form of manhood
+- **Toxic Masculinity**: Rigid norms that harm men and others; #MeToo, manosphere
+- **Inclusive Masculinities** (Anderson): Changing norms around friendship, sexuality, gender
+- **Male Body Politics**: Muscularity, body image, prostate cancer, male eating disorders
+- **Fatherhood Studies**: Involved fatherhood, work-family balance, social fatherhood
+- **Boys and Education**: Achievement gap, school engagement, disciplinary disparities
+
+### Feminist Theory in Depth
+- **Liberal Feminism**: Equal rights, legal reform, anti-discrimination
+- **Radical Feminism**: Patriarchy as fundamental oppression; separatism; sex-positive radical feminism
+- **Marxist/Socialist Feminism**: Gender oppression intertwined with capitalism; reproductive labor
+- **Postmodern Feminism**: Rejection of universal "woman" category; emphasis on difference
+- **Multiracial Feminism**: Women of color critique of mainstream feminism (hooks, Moraga, Anzaldúa)
+- **Postcolonial Feminism**: Challenging Western feminist universalism; Mohanty, Spivak
+- **Abolition Feminism**: Linking gender-based violence to carceral systems
+- **Disability Feminism**: Intersecting oppressions; crip feminism
+
+### Gendered Violence
+- **Intimate Partner Violence**: Physical, sexual, emotional, economic abuse; coercive control
+- **Sexual Violence**: Rape, sexual assault, harassment; consent culture; #MeToo movement
+- **Femicide**: Gender-motivated killing of women and girls; structural dimensions
+- **Honor-Based Violence**: Cultural and structural roots; international human rights framework
+- **Human Trafficking**: Sex trafficking, labor trafficking; prevention, prosecution, protection
+- **Reproductive Coercion**: Birth control sabotage, pregnancy coercion, forced sterilization
+- **Technology-Facilitated Abuse**: Image-based sexual abuse, cyberstalking, deepfakes
+- **Violence Prevention**: Bystander intervention, prevention education, accountability programs
+
+### Sexualities & Queer Theory in Depth
+- **Sexual Orientation**: Gay, lesbian, bisexual, asexual, pansexual, queer, questioning
+- **Queer of Color Critique**: Intersection of race and sexuality (Ferguson, Muñoz)
+- **Affect Theory**: Emotion, feeling, body in queer studies (Ahmed, Berlant)
+- **Transnational Queer Studies**: Global queer politics, homonationalism, queer diaspora
+- **Asexuality Studies**: Ace spectrum, demisexuality, visibility and erasure
+- **Polyamory & Non-Monogamy**: Ethical non-monogamy, relationship anarchism
+- **Kink & BDSM Studies**: Leather history, subcultures, power dynamics, consent
+- **Drag & Performance**: Camp, gender performance, ballroom culture, voguing
+
+### Bodies, Health & Reproduction
+- **Reproductive Justice** (SisterSong): Right to have children, not have children, parent in safe environments
+- **Reproductive Technologies**: IVF, IUI, surrogacy, genetic screening, mitochondrial donation
+- **Menstruation & Menopause**: Cultural taboos, medicalization, workplace accommodations
+- **Sexual Health**: STI prevention, comprehensive sex education, PrEP, pleasure-inclusive health
+- **Maternal Health**: Maternal mortality disparities, birth justice, midwifery
+- **Mental Health & Gender**: Depression, anxiety, eating disorders, gender dysphoria
+- **Aging & Gender**: Menopause, masculinity and aging, ageism, intergenerational feminism
+- **Disability & Sexuality**: Disabled sexualities, reproductive rights, care ethics
+
+### Gender in Work & Economy
+- **Wage Gap**: Gender pay gap, lifetime earnings, motherhood penalty
+- **Occupational Segregation**: Horizontal (jobs) and vertical (hierarchies) segregation
+- **Glass Ceiling & Sticky Floor**: Barriers to advancement; intersectional barriers
+- **Care Economy**: Childcare, eldercare, domestic labor; valuing care work
+- **Sex Work**: Decriminalization, legalization, abolition; rights and labor perspectives
+- **Gig Economy & Gender**: Platform work, informal labor, gender gaps in gig work
+- **Global Care Chains**: Transnational care work, migration, gender and globalization
+- **Feminist Economics**: Care-centered economics, gender budgeting, alternative indicators
+
+### Politics, Law & Activism
+- **Gender Quotas**: Electoral quotas, board quotas; effectiveness and backlash
+- **Reproductive Rights Law**: Roe v. Wade, Dobbs decision, international comparisons
+- **Gender-Based Asylum**: Persecution based on gender, sexuality, gender identity
+- **Feminist Movements**: Suffrage, women's liberation, Riot grrrl, #MeToo, Ni Una Menos
+- **Men's Movements**: Pro-feminist men, men's rights activists (MRAs), incels, fatherhood rights
+- **LGBTQ+ Rights**: Marriage equality, anti-discrimination, hate crime laws
+- **Backlash**: Anti-feminist mobilizations, gender-critical feminism, anti-gender campaigns
+- **Global Feminism**: UN Women, Beijing Platform, Sustainable Development Goal 5
+
 ## Key Theories
 
 | Theory | Key Figure | Core Idea |
@@ -78,6 +156,11 @@ Gender and sexuality studies is an interdisciplinary field examining how gender 
 | The Second Sex | Simone de Beauvoir | "One is not born, but rather becomes, a woman" |
 | Heteronormativity | Michael Warner | Institutionalized assumption of heterosexuality as default |
 | Standpoint Theory | Sandra Harding | Knowledge is situated; marginalized perspectives offer epistemic advantages |
+| Doing Gender | West & Zimmerman | Gender as ongoing accomplishment in social interaction |
+| Compulsory Heterosexuality | Adrienne Rich | Heterosexuality as enforced institution, not natural preference |
+| Queer Theory | Eve Sedgwick | Destabilizes binary categories of sex, gender, and sexuality |
+| Masculinities | R.W. Connell | Multiple masculinities structured by power, hierarchy, and hegemony |
+| Reproductive Justice | Loretta Ross | Framework linking reproductive rights with social justice |
 
 ## Important Figures
 
